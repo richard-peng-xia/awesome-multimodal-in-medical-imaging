@@ -2,8 +2,8 @@
 This repository includes resources on several applications of muti-modal learning in medical imaging.
 
 ## Overview
-- Medical Report Generation
-- Medical Visual Question Answering
+- [Medical Report Generation](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-report-generation)
+- [Medical Visual Question Answering](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-visual-question-answering)
 
 ## Medical Report Generation
 - FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
