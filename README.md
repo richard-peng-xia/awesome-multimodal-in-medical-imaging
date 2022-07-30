@@ -8,7 +8,7 @@ This repository includes resources on several applications of muti-modal learnin
 ## Overview
 - [Medical Report Generation](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-report-generation)
 - [Medical Visual Question Answering](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-visual-question-answering)
-- [Vision-Language Prompt](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#Vision-Language Prompt)
+- [Vision-Language Prompt](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#vision-language-prompt)
 
 ## Medical Report Generation
 - [**NeurIPS 2021 Datasets and Benchmarks Track (Round 2)**] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
