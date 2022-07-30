@@ -8,6 +8,7 @@ This repository includes resources on several applications of muti-modal learnin
 ## Overview
 - [Medical Report Generation](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-report-generation)
 - [Medical Visual Question Answering](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-visual-question-answering)
+- [Vision-Language Prompt](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#Vision-Language Prompt)
 
 ## Medical Report Generation
 - [**NeurIPS 2021 Datasets and Benchmarks Track (Round 2)**] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
@@ -45,6 +46,6 @@ This repository includes resources on several applications of muti-modal learnin
 - [**CVPR 2022**] LAVT: Language-Aware Vision Transformer for Referring Image Segmentation [[pdf]](https://arxiv.org/pdf/2112.02244) [[code]](https://github.com/yz93/lavt-ris)
 - [**CVPR 2022**] Image Segmentation Using Text and Image Prompts [[pdf]](https://arxiv.org/pdf/2112.10003) [[code]](https://github.com/timojl/clipseg)
 - [**IJCV 2022**] Learning to Prompt for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2109.01134) [[code]](https://github.com/kaiyangzhou/coop)
-- [**CVPR 2022**] Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557) [[code]]https://github.com/kaiyangzhou/coop)
+- [**CVPR 2022**] Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557) [[code]](https://github.com/kaiyangzhou/coop)
 - [**arXiv 2022**] Neural Prompt Search [[pdf]](https://arxiv.org/pdf/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH)
 - [**CVPR 2022**] Prompt-RSVQA: Prompting Visual Context to a Language Model for Remote Sensing Visual Question Answering [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.pdf) 
