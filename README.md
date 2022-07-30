@@ -32,11 +32,19 @@ This repository includes resources on several applications of muti-modal learnin
 ## Medical Visual Question Answering
 - [**arXiv 2021**] MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2107.03216)
 - [**MICCAI 2022**] Consistency-preserving Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2206.13296) [[code]](https://github.com/sergiotasconmorales/consistency_vqa)
-- [**TMI 2020**] A Question-Centric Model for Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2003.08760)
+- [**TMI 2020**] A Question-Centric Model for Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2003.08760) [[code]](https://github.com/vuhoangminh/vqa_medical)
 - [**arXiv 2021**] Medical Visual Question Answering: A Survey [[pdf]](https://arxiv.org/pdf/2111.10056)
 - [**arXiv 2022**] Surgical-VQA: Visual Question Answering in Surgical Scenes using Transformer [[pdf]](https://arxiv.org/pdf/2206.11053) [[code]](https://github.com/lalithjets/Surgical_VQA)
-- [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
 - [**CLEF 2020 Working Notes**] HCP-MIC at VQA-Med 2020: Effective visual representation for medical visual question answering [[pdf]](http://ceur-ws.org/Vol-2696/paper_74.pdf) [[code]](https://github.com/haifangong/HCP-MIC-at-ImageCLEF-VQA-Med-2020)
 - [**CLEF 2020 Working Notes**] TeamS at VQA-Med 2021: BBN-Orchestra for long-tailed medical visual question answering [[pdf]](http://ceur-ws.org/Vol-2936/paper-98.pdf) [[code]](https://github.com/d4l-data4life/BBNOrchestra-for-VQAmed2021)
 - [**Nature Scientific Reports 2021**] MedFuseNet: An attention-based multimodal deep learning model for visual question answering in the medical domain [[pdf]](https://www.nature.com/articles/s41598-021-98390-1) 
 - [**ECCV 2022**] Distilled Dual-Encoder Model for Vision-Language Understanding [[pdf]](https://arxiv.org/pdf/2112.08723) [[code]](https://github.com/yzd-v/MGD)
+
+## Vision-Language Prompt
+- [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
+- [**CVPR 2022**] LAVT: Language-Aware Vision Transformer for Referring Image Segmentation [[pdf]](https://arxiv.org/pdf/2112.02244) [[code]](https://github.com/yz93/lavt-ris)
+- [**CVPR 2022**] Image Segmentation Using Text and Image Prompts [[pdf]](https://arxiv.org/pdf/2112.10003) [[code]](https://github.com/timojl/clipseg)
+- [**IJCV 2022**] Learning to Prompt for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2109.01134) [[code]](https://github.com/kaiyangzhou/coop)
+- [**CVPR 2022**] Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557) [[code]]https://github.com/kaiyangzhou/coop)
+- [**arXiv 2022**] Neural Prompt Search [[pdf]](https://arxiv.org/pdf/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH)
+- [**CVPR 2022**] Prompt-RSVQA: Prompting Visual Context to a Language Model for Remote Sensing Visual Question Answering [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.pdf) 
