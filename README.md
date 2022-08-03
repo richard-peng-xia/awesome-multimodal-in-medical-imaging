@@ -49,3 +49,4 @@ This repository includes resources on several applications of muti-modal learnin
 - [**CVPR 2022**] Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557) [[code]](https://github.com/kaiyangzhou/coop)
 - [**arXiv 2022**] Neural Prompt Search [[pdf]](https://arxiv.org/pdf/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH)
 - [**CVPR 2022**] Prompt-RSVQA: Prompting Visual Context to a Language Model for Remote Sensing Visual Question Answering [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.pdf) 
+- [**arXiv 2022**] Prompt-to-Prompt Image Editing with Cross Attention Control [[pdf]](https://arxiv.org/pdf/2208.01626)
