@@ -12,7 +12,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [Medical Visual Question Answering](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-visual-question-answering)
 - [Vision-Language Prompt](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#vision-language-prompt)
 
-## Medical Report Generation
+## Medical Report Generation ![](https://img.shields.io/badge/Medical Report Generation-blue)
 - [**NeurIPS 2021 Datasets and Benchmarks Track (Round 2)**] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
 - [**arXiv 2020**] Auxiliary Signal-Guided Knowledge Encoder-Decoder for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2006.03744.pdf)
 - [**CVPR 2022**] Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Modal_Clinical_Graph_Transformer_for_Ophthalmic_Report_Generation_CVPR_2022_paper.pdf)
@@ -34,7 +34,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [**MICCAI 2022**] A Self-Guided Framework for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2206.09378)
 - [**ACL-IJCNLP 2021**] Cross-modal Memory Networks for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2204.13258) [[code]](https://github.com/zhjohnchan/R2GenCMN)
 
-## Medical Visual Question Answering
+## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical Visual Question Answering-blue)
 - [**arXiv 2021**] MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2107.03216)
 - [**MICCAI 2022**] Consistency-preserving Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2206.13296) [[code]](https://github.com/sergiotasconmorales/consistency_vqa)
 - [**TMI 2020**] A Question-Centric Model for Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2003.08760) [[code]](https://github.com/vuhoangminh/vqa_medical)
@@ -45,7 +45,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [**Nature Scientific Reports 2021**] MedFuseNet: An attention-based multimodal deep learning model for visual question answering in the medical domain [[pdf]](https://www.nature.com/articles/s41598-021-98390-1) 
 - [**ECCV 2022**] Distilled Dual-Encoder Model for Vision-Language Understanding [[pdf]](https://arxiv.org/pdf/2112.08723) [[code]](https://github.com/yzd-v/MGD)
 
-## Vision-Language Prompt
+## Vision-Language Prompt ![](https://img.shields.io/badge/Vision Language Prompt-blue)
 - [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
 - [**CVPR 2022**] LAVT: Language-Aware Vision Transformer for Referring Image Segmentation [[pdf]](https://arxiv.org/pdf/2112.02244) [[code]](https://github.com/yz93/lavt-ris)
 - [**CVPR 2022**] Image Segmentation Using Text and Image Prompts [[pdf]](https://arxiv.org/pdf/2112.10003) [[code]](https://github.com/timojl/clipseg)
