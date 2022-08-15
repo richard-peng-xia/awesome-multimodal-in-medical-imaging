@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-41-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-40-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
@@ -56,5 +56,4 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] Prompt-to-Prompt Image Editing with Cross Attention Control [[pdf]](https://arxiv.org/pdf/2208.01626)
 - [**arXiv 2022**] Prompt Tuning for Generative Multimodal Pretrained Models [[pdf]](https://arxiv.org/pdf/2208.02532) [[code]](https://github.com/OFA-Sys/OFA)
 - [**arXiv 2022**] P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting [[pdf]](https://arxiv.org/pdf/2208.02812.pdf) [[code]](https://github.com/wangzy22/P2P)
-- [**IJCV 2022**] Learning to Prompt for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2109.01134) [[code]](https://github.com/kaiyangzhou/coop)
 - [**arXiv 2022**] MILAN: Masked Image Pretraining on Language Assisted Representation [[pdf]](https://arxiv.org/pdf/2208.06049) [[code]](https://github.com/zejiangh/MILAN)
