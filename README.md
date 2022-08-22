@@ -2,16 +2,19 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-42-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-43-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
 
 ## Overview
+- [Survey](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#survey)
 - [Medical Report Generation](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-report-generation)
 - [Medical Visual Question Answering](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-visual-question-answering)
 - [Vision-Language Prompt](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#vision-language-prompt)
 
+## Survey ![](https://img.shields.io/badge/Survey-red)
+- [**arXiv 2022**] Visual Attention Methods in Deep Learning: An In-Depth Survey [[pdf]](https://arxiv.org/pdf/2204.07756.pdf)
 ## Medical Report Generation ![](https://img.shields.io/badge/Medical_Report_Generation-blue)
 - [**NeurIPS 2021 Datasets and Benchmarks Track (Round 2)**] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
 - [**arXiv 2020**] Auxiliary Signal-Guided Knowledge Encoder-Decoder for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2006.03744.pdf)
