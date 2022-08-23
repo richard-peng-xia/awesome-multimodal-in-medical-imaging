@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-43-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-45-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
@@ -13,8 +13,9 @@ This repository includes resources on several applications of muti-modal learnin
 - [Medical Visual Question Answering](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-visual-question-answering)
 - [Vision-Language Prompt](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#vision-language-prompt)
 
-## Survey ![](https://img.shields.io/badge/Survey-red)
+## Survey ![](https://img.shields.io/badge/survey-red)
 - [**arXiv 2022**] Visual Attention Methods in Deep Learning: An In-Depth Survey [[pdf]](https://arxiv.org/pdf/2204.07756.pdf)
+
 ## Medical Report Generation ![](https://img.shields.io/badge/Medical_Report_Generation-blue)
 - [**NeurIPS 2021 Datasets and Benchmarks Track (Round 2)**] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
 - [**arXiv 2020**] Auxiliary Signal-Guided Knowledge Encoder-Decoder for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2006.03744.pdf)
@@ -36,6 +37,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [**Nature Machine Intelligence 2022**] Generalized Radiograph Representation Learning via Cross-supervision between Images and Free-text Radiology Reports [[pdf]](https://arxiv.org/abs/2111.03452) [[code]](https://github.com/funnyzhou/refers)
 - [**MICCAI 2022**] A Self-Guided Framework for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2206.09378)
 - [**ACL-IJCNLP 2021**] Cross-modal Memory Networks for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2204.13258) [[code]](https://github.com/zhjohnchan/R2GenCMN)
+- [**MICCAI 2022**] A Medical Semantic-Assisted Transformer for Radiographic Report Generation [[pdf]](https://arxiv.org/pdf/2208.10358)
 
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
 - [**arXiv 2021**] MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2107.03216)
@@ -62,3 +64,4 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] MILAN: Masked Image Pretraining on Language Assisted Representation [[pdf]](https://arxiv.org/pdf/2208.06049) [[code]](https://github.com/zejiangh/MILAN)
 - [**arXiv 2022**] Class-Aware Visual Prompt Tuning for Vision-Language Pre-Trained Model [[pdf]](https://arxiv.org/pdf/2208.08340.pdf)
 - [**arXiv 2022**] Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914.pdf)
+- [**arXiv 2022**] Prompt-Matched Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2208.10159)
