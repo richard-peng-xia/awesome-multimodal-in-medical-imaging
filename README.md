@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-45-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-48-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
@@ -65,3 +65,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] Class-Aware Visual Prompt Tuning for Vision-Language Pre-Trained Model [[pdf]](https://arxiv.org/pdf/2208.08340.pdf)
 - [**arXiv 2022**] Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914.pdf)
 - [**arXiv 2022**] Prompt-Matched Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2208.10159)
+- [**ECCV 2022**] Learning from Unlabeled 3D Environments for Vision-and-Language Navigation [[pdf]](https://arxiv.org/pdf/2208.11781.pdf) [[code]](https://cshizhe.github.io/projects/hm3d_autovln.html)
+- [**arXiv 2022**] Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task [[pdf]](https://arxiv.org/pdf/2208.12037.pdf) [[code]](https://github.com/showlab/CLVQA) 
+- [**arXiv 2022**] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[pdf]](https://arxiv.org/pdf/2208.12242.pdf) [[code]](https://dreambooth.github.io/)
+
