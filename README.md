@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-50-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-52-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
@@ -70,4 +70,5 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task [[pdf]](https://arxiv.org/pdf/2208.12037.pdf) [[code]](https://github.com/showlab/CLVQA) 
 - [**arXiv 2022**] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[pdf]](https://arxiv.org/pdf/2208.12242.pdf) [[code]](https://dreambooth.github.io/)
 - [**arXiv 2022**] Prompt Tuning with Soft Context Sharing for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2208.13474.pdf)
-
+- [**arXiv 2022**] Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2209.07511.pdf) 
+- [**arXiv 2022**] Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models [[pdf]](https://arxiv.org/pdf/2209.06970.pdf) [[code]](https://github.com/ChenWu98/Generative-Visual-Prompt)
