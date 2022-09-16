@@ -71,4 +71,4 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[pdf]](https://arxiv.org/pdf/2208.12242.pdf) [[code]](https://dreambooth.github.io/)
 - [**arXiv 2022**] Prompt Tuning with Soft Context Sharing for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2208.13474.pdf)
 - [**arXiv 2022**] Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2209.07511.pdf) 
-- [**arXiv 2022**] Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models [[pdf]](https://arxiv.org/pdf/2209.06970.pdf) [[code]](https://github.com/ChenWu98/Generative-Visual-Prompt)
+- [**NeurIPS 2022**] Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models [[pdf]](https://arxiv.org/pdf/2209.06970.pdf) [[code]](https://github.com/ChenWu98/Generative-Visual-Prompt)
