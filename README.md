@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-52-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-53-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
@@ -72,3 +72,4 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] Prompt Tuning with Soft Context Sharing for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2208.13474.pdf)
 - [**arXiv 2022**] Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2209.07511.pdf) 
 - [**NeurIPS 2022**] Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models [[pdf]](https://arxiv.org/pdf/2209.06970.pdf) [[code]](https://github.com/ChenWu98/Generative-Visual-Prompt)
+- [**NeurIPS 2022**] M^4I: Multi-modal Models Membership Inference [[pdf]](https://arxiv.org/pdf/2209.06997.pdf) [[code]](https://github.com/MultimodalMI/Multimodal-membership-inference)
