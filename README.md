@@ -75,3 +75,4 @@ This repository includes resources on several applications of muti-modal learnin
 - [**NeurIPS 2022**] M^4I: Multi-modal Models Membership Inference [[pdf]](https://arxiv.org/pdf/2209.06997.pdf) [[code]](https://github.com/MultimodalMI/Multimodal-membership-inference)
 - [**IJCAI 2022**] Declaration-based Prompt Tuning for Visual Question Answering [[pdf]](https://arxiv.org/pdf/2205.02456) [[code]](https://github.com/CCIIPLab/DPT)
 - [**MICCAI 2022**] Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training [[pdf]](https://arxiv.org/pdf/2209.07098.pdf) [[code]](https://github.com/zhjohnchan/M3AE)
+- [**NeurIPS 2022**] GLIPv2: Unifying Localization and VL Understanding [[pdf]](https://arxiv.org/pdf/2206.05836.pdf) [[code]](https://github.com/microsoft/GLIP)
