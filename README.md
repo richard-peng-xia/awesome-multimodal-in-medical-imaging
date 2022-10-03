@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-55-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-56-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
@@ -77,3 +77,4 @@ This repository includes resources on several applications of muti-modal learnin
 - [**IJCAI 2022**] Declaration-based Prompt Tuning for Visual Question Answering [[pdf]](https://arxiv.org/pdf/2205.02456) [[code]](https://github.com/CCIIPLab/DPT)
 - [**MICCAI 2022**] Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training [[pdf]](https://arxiv.org/pdf/2209.07098.pdf) [[code]](https://github.com/zhjohnchan/M3AE)
 - [**NeurIPS 2022**] GLIPv2: Unifying Localization and VL Understanding [[pdf]](https://arxiv.org/pdf/2206.05836.pdf) [[code]](https://github.com/microsoft/GLIP)
+- [**arXiv 2022**] Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study [[pdf]](https://arxiv.org/pdf/2209.15517)
