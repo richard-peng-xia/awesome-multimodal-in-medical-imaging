@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-56-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-63-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
@@ -15,6 +15,8 @@ This repository includes resources on several applications of muti-modal learnin
 
 ## Survey ![](https://img.shields.io/badge/survey-red)
 - [**arXiv 2022**] Visual Attention Methods in Deep Learning: An In-Depth Survey [[pdf]](https://arxiv.org/pdf/2204.07756.pdf)
+- [**arXiv 2022**] Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study [[pdf]](https://arxiv.org/pdf/2209.15517)
+- [**arXiv 2022**] Vision+X: A Survey on Multimodal Learning in the Light of Data [[pdf]](https://arxiv.org/pdf/2210.02884)
 
 ## Medical Report Generation ![](https://img.shields.io/badge/Medical_Report_Generation-blue)
 - [**NeurIPS 2021 Datasets and Benchmarks Track (Round 2)**] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
@@ -51,6 +53,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [**CLEF 2020 Working Notes**] TeamS at VQA-Med 2021: BBN-Orchestra for long-tailed medical visual question answering [[pdf]](http://ceur-ws.org/Vol-2936/paper-98.pdf) [[code]](https://github.com/d4l-data4life/BBNOrchestra-for-VQAmed2021)
 - [**Nature Scientific Reports 2021**] MedFuseNet: An attention-based multimodal deep learning model for visual question answering in the medical domain [[pdf]](https://www.nature.com/articles/s41598-021-98390-1) 
 - [**ECCV 2022**] Distilled Dual-Encoder Model for Vision-Language Understanding [[pdf]](https://arxiv.org/pdf/2112.08723) [[code]](https://github.com/yzd-v/MGD)
+- [**arXiv 2022**] A Dual-Attention Learning Network with Word and Sentence Embedding for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2210.00220) [[code]](https://github.com/coisini-glenda/wsdan-for-medical-visual-question-answering)
 
 ## Vision-Language Prompt ![](https://img.shields.io/badge/Vision_Language_Prompt-green)
 - [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
@@ -78,3 +81,8 @@ This repository includes resources on several applications of muti-modal learnin
 - [**MICCAI 2022**] Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training [[pdf]](https://arxiv.org/pdf/2209.07098.pdf) [[code]](https://github.com/zhjohnchan/M3AE)
 - [**NeurIPS 2022**] GLIPv2: Unifying Localization and VL Understanding [[pdf]](https://arxiv.org/pdf/2206.05836.pdf) [[code]](https://github.com/microsoft/GLIP)
 - [**arXiv 2022**] Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study [[pdf]](https://arxiv.org/pdf/2209.15517)
+- [**arXiv 2022**] Language-Aware Soft Prompting for Vision & Language Foundation Models [[pdf]](https://arxiv.org/pdf/2210.01115)
+- [**arXiv 2022**] LPT: Long-tailed Prompt Tuning for Image Classification [[pdf]](https://arxiv.org/pdf/2210.01033)
+- [**arXiv 2022**] Prompt Learning with Optimal Transport for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.01253)
+- [**arXiv 2022**] Variational prompt tuning improves generalization of vision-language models [[pdf]](https://arxiv.org/pdf/2210.02390)
+
