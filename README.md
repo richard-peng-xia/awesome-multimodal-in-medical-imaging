@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-67-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-70-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
@@ -43,6 +43,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [**MIDL 2022**] Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation [[pdf]](https://arxiv.org/pdf/2209.01604)
 - [**MICCAI 2022**] RepsNet: Combining Vision with Language for Automated Medical Reports [[pdf]](https://arxiv.org/pdf/2209.13171) [[code]](https://sites.google.com/view/repsnet)
 - [**arXiv 2022**] Improving Radiology Report Generation Systems by Removing Hallucinated References to Non-existent Priors [[pdf]](https://arxiv.org/pdf/2210.06340)
+- [**IEEE TNNLS 2022**] Hybrid Reinforced Medical Report Generation with M-Linear Attention and Repetition Penalty [[pdf]](https://arxiv.org/pdf/2210.13729)
 
 
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
@@ -91,4 +92,5 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] Learning to Decompose Visual Features with Latent Textual Prompts [[pdf]](https://arxiv.org/pdf/2210.04287)
 - [**arXiv 2022**] Visual Prompting for Adversarial Robustness [[pdf]](https://arxiv.org/pdf/2210.06284) 
 - [**arXiv 2022**] Unified Vision and Language Prompt Learning [[pdf]](https://arxiv.org/pdf/2210.07225) [[code]](https://github.com/yuhangzang/upt)
-
+- [**arXiv 2022**] CPL: Counterfactual Prompt Learning for Vision and Language Models [[pdf]](https://arxiv.org/pdf/2210.10362.pdf)
+- [**arXiv 2022**] Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.10841.pdf)
