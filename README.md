@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-70-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-76-brightgreen)
 
 # Awesome-Mutimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of muti-modal learning in medical imaging.
@@ -45,6 +45,8 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] Improving Radiology Report Generation Systems by Removing Hallucinated References to Non-existent Priors [[pdf]](https://arxiv.org/pdf/2210.06340)
 - [**IEEE TNNLS 2022**] Hybrid Reinforced Medical Report Generation with M-Linear Attention and Repetition Penalty [[pdf]](https://arxiv.org/pdf/2210.13729)
 - [**Medical Image Analysis 2022**] CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2211.01412) 
+- [**arXiv 2022**] Lesion Guided Explainable Few Weak-shot Medical Report Generation [[pdf]](https://arxiv.org/pdf/2211.08732.pdf) [[code]](https://github.com/jinghanSunn/Few-weak-shot-RG)
+- [**arXiv 2022**] Self adaptive global-local feature enhancement for radiology report generation [[pdf]](https://arxiv.org/pdf/2211.11380)
 
 
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
@@ -58,6 +60,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [**Nature Scientific Reports 2021**] MedFuseNet: An attention-based multimodal deep learning model for visual question answering in the medical domain [[pdf]](https://www.nature.com/articles/s41598-021-98390-1) 
 - [**ECCV 2022**] Distilled Dual-Encoder Model for Vision-Language Understanding [[pdf]](https://arxiv.org/pdf/2112.08723) [[code]](https://github.com/yzd-v/MGD)
 - [**arXiv 2022**] A Dual-Attention Learning Network with Word and Sentence Embedding for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2210.00220) [[code]](https://github.com/coisini-glenda/wsdan-for-medical-visual-question-answering)
+- [**arXiv 2022**] MF2-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2211.05991)
 
 ## Vision-Language Prompt ![](https://img.shields.io/badge/Vision_Language_Prompt-green)
 - [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
@@ -76,7 +79,6 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] Prompt-Matched Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2208.10159)
 - [**ECCV 2022**] Learning from Unlabeled 3D Environments for Vision-and-Language Navigation [[pdf]](https://arxiv.org/pdf/2208.11781.pdf) [[code]](https://cshizhe.github.io/projects/hm3d_autovln.html)
 - [**arXiv 2022**] Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task [[pdf]](https://arxiv.org/pdf/2208.12037.pdf) [[code]](https://github.com/showlab/CLVQA) 
-- [**arXiv 2022**] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[pdf]](https://arxiv.org/pdf/2208.12242.pdf) [[code]](https://dreambooth.github.io/)
 - [**arXiv 2022**] Prompt Tuning with Soft Context Sharing for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2208.13474.pdf)
 - [**arXiv 2022**] Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2209.07511.pdf) 
 - [**NeurIPS 2022**] Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models [[pdf]](https://arxiv.org/pdf/2209.06970.pdf) [[code]](https://github.com/ChenWu98/Generative-Visual-Prompt)
@@ -96,3 +98,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] CPL: Counterfactual Prompt Learning for Vision and Language Models [[pdf]](https://arxiv.org/pdf/2210.10362.pdf)
 - [**arXiv 2022**] Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.10841.pdf)
 - [**arXiv 2022**] Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2211.02219.pdf) [[code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning)
+- [**arXiv 2022**] Multitask Vision-Language Prompt Tuning [[pdf]](https://arxiv.org/pdf/2211.11720) [[code]](https://github.com/sIncerass/MVLPT)
+- [**arXiv 2022**] ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2211.11514) [[code]](https://github.com/ShishuaiHu/ProSFDA)
+- [**arXiv 2022**] PromptCap: Prompt-Guided Task-Aware Image Captioning [[pdf]](https://arxiv.org/pdf/2211.09699)
+- [**arXiv 2022**] Prompt Tuning for Parameter-efficient Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2211.09233) [[code]](https://github.com/marcdcfischer/PUNet)
