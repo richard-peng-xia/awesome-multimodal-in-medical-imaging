@@ -1,17 +1,17 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![](https://img.shields.io/github/last-commit/Richard88888/awesome-mutimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-76-brightgreen)
+![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
+![](https://img.shields.io/badge/PaperNumber-82-brightgreen)
 
-# Awesome-Mutimodal-Applications-In-Medical-Imaging
-This repository includes resources on several applications of muti-modal learning in medical imaging.
+# Awesome-Multimodal-Applications-In-Medical-Imaging
+This repository includes resources on several applications of multi-modal learning in medical imaging.
 
 ## Overview
-- [Survey](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#survey)
-- [Medical Report Generation](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-report-generation)
-- [Medical Visual Question Answering](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#medical-visual-question-answering)
-- [Vision-Language Prompt](https://github.com/Richard88888/awesome-mutimodal-in-medical-imaging#vision-language-prompt)
+- [Survey](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging#survey)
+- [Medical Report Generation](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging#medical-report-generation)
+- [Medical Visual Question Answering](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging#medical-visual-question-answering)
+- [Vision-Language Prompt](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging#vision-language-prompt)
 
 ## Survey ![](https://img.shields.io/badge/survey-red)
 - [**arXiv 2022**] Visual Attention Methods in Deep Learning: An In-Depth Survey [[pdf]](https://arxiv.org/pdf/2204.07756.pdf)
@@ -47,7 +47,9 @@ This repository includes resources on several applications of muti-modal learnin
 - [**Medical Image Analysis 2022**] CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2211.01412) 
 - [**arXiv 2022**] Lesion Guided Explainable Few Weak-shot Medical Report Generation [[pdf]](https://arxiv.org/pdf/2211.08732.pdf) [[code]](https://github.com/jinghanSunn/Few-weak-shot-RG)
 - [**arXiv 2022**] Self adaptive global-local feature enhancement for radiology report generation [[pdf]](https://arxiv.org/pdf/2211.11380)
-
+- [**arXiv 2022**] On the Importance of Image Encoding in Automated Chest X-Ray Report Generation [[pdf]](https://arxiv.org/pdf/2211.13465) [[code]](https://github.com/mudabek/encoding-cxr-report-gen)
+- [**arXiv 2022**] RoentGen: Vision-Language Foundation Model for Chest X-ray Generation [[pdf]](https://arxiv.org/pdf/2211.12737)
+- [**arXiv 2022**] DeltaNet:Conditional Medical Report Generation for COVID-19 Diagnosis [[pdf]](https://arxiv.org/pdf/2211.13229) [[code]](https://github.com/LX-doctorAI1/DeltaNet)
 
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
 - [**arXiv 2021**] MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2107.03216)
@@ -61,6 +63,7 @@ This repository includes resources on several applications of muti-modal learnin
 - [**ECCV 2022**] Distilled Dual-Encoder Model for Vision-Language Understanding [[pdf]](https://arxiv.org/pdf/2112.08723) [[code]](https://github.com/yzd-v/MGD)
 - [**arXiv 2022**] A Dual-Attention Learning Network with Word and Sentence Embedding for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2210.00220) [[code]](https://github.com/coisini-glenda/wsdan-for-medical-visual-question-answering)
 - [**arXiv 2022**] MF2-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2211.05991)
+- [**arXiv 2022**] Self-supervised vision-language pretraining for Medical visual question answering [[pdf]](https://arxiv.org/pdf/2211.13594) [[code]](https://github.com/pengfeiliHEU/M2I2)
 
 ## Vision-Language Prompt ![](https://img.shields.io/badge/Vision_Language_Prompt-green)
 - [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
@@ -102,3 +105,5 @@ This repository includes resources on several applications of muti-modal learnin
 - [**arXiv 2022**] ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2211.11514) [[code]](https://github.com/ShishuaiHu/ProSFDA)
 - [**arXiv 2022**] PromptCap: Prompt-Guided Task-Aware Image Captioning [[pdf]](https://arxiv.org/pdf/2211.09699)
 - [**arXiv 2022**] Prompt Tuning for Parameter-efficient Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2211.09233) [[code]](https://github.com/marcdcfischer/PUNet)
+- [**arXiv 2022**] Task Residual for Tuning Vision-Language Models [[pdf]](https://arxiv.org/pdf/2211.10277.pdf) [[code]](https://github.com/geekyutao/TaskRes)
+- [**arXiv 2022**] Texts as Images in Prompt Tuning for Multi-Label Image Recognition [[pdf]](https://arxiv.org/pdf/2211.12739.pdf) [[code]](https://github.com/guozix/TaI-DPT)
