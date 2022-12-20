@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-82-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-83-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -107,3 +107,4 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2022**] Prompt Tuning for Parameter-efficient Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2211.09233) [[code]](https://github.com/marcdcfischer/PUNet)
 - [**arXiv 2022**] Task Residual for Tuning Vision-Language Models [[pdf]](https://arxiv.org/pdf/2211.10277.pdf) [[code]](https://github.com/geekyutao/TaskRes)
 - [**arXiv 2022**] Texts as Images in Prompt Tuning for Multi-Label Image Recognition [[pdf]](https://arxiv.org/pdf/2211.12739.pdf) [[code]](https://github.com/guozix/TaI-DPT)
+- [**AAAI 2023**] Controllable Image Captioning via Prompting [[pdf]](https://arxiv.org/pdf/2212.01803.pdf) 
