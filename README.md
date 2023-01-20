@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-83-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-89-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -64,6 +64,7 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2022**] A Dual-Attention Learning Network with Word and Sentence Embedding for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2210.00220) [[code]](https://github.com/coisini-glenda/wsdan-for-medical-visual-question-answering)
 - [**arXiv 2022**] MF2-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2211.05991)
 - [**arXiv 2022**] Self-supervised vision-language pretraining for Medical visual question answering [[pdf]](https://arxiv.org/pdf/2211.13594) [[code]](https://github.com/pengfeiliHEU/M2I2)
+- [**arXiv 2022**] UnICLAM:Contrastive Representation Learning with Adversarial Masking for Unified and Interpretable Medical Vision Question Answering [[pdf]](https://arxiv.org/pdf/2212.10729) 
 
 ## Vision-Language Prompt ![](https://img.shields.io/badge/Vision_Language_Prompt-green)
 - [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
@@ -108,3 +109,8 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2022**] Task Residual for Tuning Vision-Language Models [[pdf]](https://arxiv.org/pdf/2211.10277.pdf) [[code]](https://github.com/geekyutao/TaskRes)
 - [**arXiv 2022**] Texts as Images in Prompt Tuning for Multi-Label Image Recognition [[pdf]](https://arxiv.org/pdf/2211.12739.pdf) [[code]](https://github.com/guozix/TaI-DPT)
 - [**AAAI 2023**] Controllable Image Captioning via Prompting [[pdf]](https://arxiv.org/pdf/2212.01803.pdf) 
+- [**arXiv 2022**] See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning [[pdf]](https://arxiv.org/pdf/2301.05226)
+- [**arXiv 2022**] From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models [[pdf]](https://arxiv.org/pdf/2212.10846)
+- [**arXiv 2022**] Position-guided Text Prompt for Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2212.09737) [[code]](https://github.com/sail-sg/ptp)
+- [**arXiv 2022**] Doubly Right Object Recognition: A Why Prompt for Visual Rationales [[pdf]](https://arxiv.org/pdf/2212.06202) 
+- [**arXiv 2022**] PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[pdf]](https://arxiv.org/pdf/2212.05590)
