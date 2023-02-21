@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-93-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-97-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -65,6 +65,7 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2022**] MF2-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2211.05991)
 - [**arXiv 2022**] Self-supervised vision-language pretraining for Medical visual question answering [[pdf]](https://arxiv.org/pdf/2211.13594) [[code]](https://github.com/pengfeiliHEU/M2I2)
 - [**arXiv 2022**] UnICLAM:Contrastive Representation Learning with Adversarial Masking for Unified and Interpretable Medical Vision Question Answering [[pdf]](https://arxiv.org/pdf/2212.10729) 
+- [**arXiv 2023**] Interpretable Medical Image Visual Question Answering via Multi-Modal Relationship Graph Learning [[pdf]](https://arxiv.org/pdf/2302.09636)
 
 ## Vision-Language Prompt ![](https://img.shields.io/badge/Vision_Language_Prompt-green)
 - [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
@@ -114,7 +115,10 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2022**] Position-guided Text Prompt for Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2212.09737.pdf) [[code]](https://github.com/sail-sg/ptp)
 - [**arXiv 2022**] Doubly Right Object Recognition: A Why Prompt for Visual Rationales [[pdf]](https://arxiv.org/pdf/2212.06202.pdf) 
 - [**arXiv 2022**] PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[pdf]](https://arxiv.org/pdf/2212.05590.pdf)
+- [**arXiv 2022**] Unified vision and language prompt learning [[pdf]](https://arxiv.org/pdf/2210.07225.pdf) [[code]](https://github.com/yuhangzang/UPT)
+- [**arXiv 2022**] Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914)
 - [**AAAI 2023**] Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation [[pdf]](https://arxiv.org/pdf/2212.04145.pdf)
 - [**NeurIPS 2022**] DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations [[pdf]](https://arxiv.org/pdf/2206.09541.pdf) [[code]](https://github.com/sunxm2357/DualCoOp)
 - [**ICLR 2023**] Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf)
 - [**CVPR 2022**] Prompt Distribution Learning [[pdf]](http://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Prompt_Distribution_Learning_CVPR_2022_paper.pdf) 
+- [**arXiv 2023**] Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts [[pdf]](https://arxiv.org/pdf/2302.08958) [[code]](https://github.com/zhjohnchan/PTUnifier)
