@@ -68,6 +68,9 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2022**] UnICLAM:Contrastive Representation Learning with Adversarial Masking for Unified and Interpretable Medical Vision Question Answering [[pdf]](https://arxiv.org/pdf/2212.10729) 
 - [**arXiv 2023**] Interpretable Medical Image Visual Question Answering via Multi-Modal Relationship Graph Learning [[pdf]](https://arxiv.org/pdf/2302.09636)
 - [**arXiv 2023**] Medical visual question answering using joint self-supervised learning [[pdf]](https://arxiv.org/pdf/2302.13069) 
+- [**arXiv 2023**] RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training
+ [[pdf]](https://arxiv.org/pdf/2303.00534) 
+
 
 ## Vision-Language Prompt ![](https://img.shields.io/badge/Vision_Language_Prompt-green)
 - [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
