@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-101-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-105-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -68,9 +68,7 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2022**] UnICLAM:Contrastive Representation Learning with Adversarial Masking for Unified and Interpretable Medical Vision Question Answering [[pdf]](https://arxiv.org/pdf/2212.10729) 
 - [**arXiv 2023**] Interpretable Medical Image Visual Question Answering via Multi-Modal Relationship Graph Learning [[pdf]](https://arxiv.org/pdf/2302.09636)
 - [**arXiv 2023**] Medical visual question answering using joint self-supervised learning [[pdf]](https://arxiv.org/pdf/2302.13069) 
-- [**arXiv 2023**] RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training
- [[pdf]](https://arxiv.org/pdf/2303.00534) 
-
+- [**arXiv 2023**] RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training [[pdf]](https://arxiv.org/pdf/2303.00534) 
 
 ## Vision-Language Prompt ![](https://img.shields.io/badge/Vision_Language_Prompt-green)
 - [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
@@ -129,3 +127,7 @@ This repository includes resources on several applications of multi-modal learni
 - [**arXiv 2023**] Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts [[pdf]](https://arxiv.org/pdf/2302.08958) [[code]](https://github.com/zhjohnchan/PTUnifier)
 - [**arXiv 2023**] StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization [[pdf]](https://arxiv.org/pdf/2302.09251) 
 - [**ICLR 2023**] Compositional Prompt Tuning with Motion Cues for Open-vocabulary Video Relation Detection [[pdf]](https://arxiv.org/pdf/2302.00268) [[code]](https://github.com/Dawn-LX/OpenVoc-VidVRD)
+- [**arXiv 2022**] Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914) [[code]](https://github.com/zhengzangw/DoPrompt)
+- [**CVPR 2023**] Multimodal Prompting with Missing Modalities for Visual Recognition [[pdf]](https://arxiv.org/pdf/2303.03369) [[code]](https://github.com/YiLunLee/Missing_aware_prompts)
+- [**CVPR 2023**] Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering [[pdf]](https://arxiv.org/pdf/2303.01903) [[code]](https://github.com/MILVLG/prophet)
+- [**CVPR 2023**] Turning a CLIP Model into a Scene Text Detector [[pdf]](https://arxiv.org/pdf/2302.14338) [[code]](https://github.com/wenwenyu/TCM)
