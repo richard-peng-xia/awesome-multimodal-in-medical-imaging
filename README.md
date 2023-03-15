@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-123-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-121-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -125,7 +125,6 @@ This repository includes resources on several applications of multi-modal learni
 - [**NeurIPS 2022**] DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations [[pdf]](https://arxiv.org/pdf/2206.09541.pdf) [[code]](https://github.com/sunxm2357/DualCoOp)
 - [**ICLR 2023**] Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf)
 - [**CVPR 2022**] Prompt Distribution Learning [[pdf]](http://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Prompt_Distribution_Learning_CVPR_2022_paper.pdf) 
-- [**arXiv 2023**] Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts [[pdf]](https://arxiv.org/pdf/2302.08958) [[code]](https://github.com/zhjohnchan/PTUnifier)
 - [**arXiv 2023**] StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization [[pdf]](https://arxiv.org/pdf/2302.09251) 
 - [**ICLR 2023**] Compositional Prompt Tuning with Motion Cues for Open-vocabulary Video Relation Detection [[pdf]](https://arxiv.org/pdf/2302.00268) [[code]](https://github.com/Dawn-LX/OpenVoc-VidVRD)
 - [**arXiv 2022**] Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914) [[code]](https://github.com/zhengzangw/DoPrompt)
@@ -148,7 +147,6 @@ This repository includes resources on several applications of multi-modal learni
 - [**IEEE Journal of Biomedical and Health Informatics 2022**] Vision-language transformer for interpretable pathology visual question answering [[link]](https://ieeexplore.ieee.org/abstract/document/9745795)
 - [**arXiv 2022**] RoentGen: Vision-Language Foundation Model for Chest X-ray Generation [[pdf]](https://arxiv.org/pdf/2211.12737)
 - [**ECCV 2022**] Making the most of text semantics to improve biomedical vision–language processing [[pdf]](https://arxiv.org/pdf/2204.09817)
-- [**PMLR 2022**] Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation [[pdf]](https://proceedings.mlr.press/v162/li22n/li22n.pdf) [[code]](https://github.com/salesforce/BLIP)
 - [**arXiv 2023**] Large-Scale Domain-Specific Pretraining for Biomedical Vision-Language Processing [[pdf]](https://arxiv.org/pdf/2303.00915) [[code]](https://aka.ms/biomedclip)
 - [**MICCAI 2022**] Berthop: An effective vision-and-language model for chest x-ray disease diagnosis [[pdf]](https://arxiv.org/pdf/2108.04938)
 - [**ICLR 2023**] Advancing Radiograph Representation Learning with Masked Record Modeling [[pdf]](https://arxiv.org/pdf/2301.13155) [[code]](https://github.com/RL4M/MRM-pytorch)
