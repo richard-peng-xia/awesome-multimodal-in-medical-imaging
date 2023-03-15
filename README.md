@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-105-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-123-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -12,6 +12,7 @@ This repository includes resources on several applications of multi-modal learni
 - [Medical Report Generation](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging#medical-report-generation)
 - [Medical Visual Question Answering](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging#medical-visual-question-answering)
 - [Vision-Language Prompt](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging#vision-language-prompt)
+- [Medical Vision-Language Model](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging#medical-vision-language-model)
 
 ## Survey ![](https://img.shields.io/badge/survey-red)
 - [**arXiv 2022**] Visual Attention Methods in Deep Learning: An In-Depth Survey [[pdf]](https://arxiv.org/pdf/2204.07756.pdf)
@@ -131,3 +132,23 @@ This repository includes resources on several applications of multi-modal learni
 - [**CVPR 2023**] Multimodal Prompting with Missing Modalities for Visual Recognition [[pdf]](https://arxiv.org/pdf/2303.03369) [[code]](https://github.com/YiLunLee/Missing_aware_prompts)
 - [**CVPR 2023**] Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering [[pdf]](https://arxiv.org/pdf/2303.01903) [[code]](https://github.com/MILVLG/prophet)
 - [**CVPR 2023**] Turning a CLIP Model into a Scene Text Detector [[pdf]](https://arxiv.org/pdf/2302.14338) [[code]](https://github.com/wenwenyu/TCM)
+
+## Medical Vision-Language Model ![](https://img.shields.io/badge/Medical_Vision_Language_Model-blue)
+- [**ICLR 2023**] Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study [[pdf]](https://openreview.net/pdf?id=txlWziuCE5W) [[code]](https://github.com/MembrLab/MIU-VL)
+- [**EMNLP 2022**] Medclip: Contrastive learning from unpaired medical images and text [[pdf]](https://arxiv.org/pdf/2210.10163.pdf) [[code]](https://github.com/RyanWangZf/MedCLIP)
+- [**arXiv 2023**] CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection [[pdf]](https://arxiv.org/pdf/2301.00785.pdf) [[code]](https://github.com/ljwztc/CLIP-Driven-Universal-Model)
+- [**arXiv 2023**] Towards General Purpose Medical AI: Continual Learning Medical Foundation Model [[pdf]](https://arxiv.org/pdf/2303.06580.pdf)
+- [**arXiv 2022**] Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains [[pdf]](https://arxiv.org/pdf/2210.04133)
+- [**ACL 2022**] ViLMedic: a framework for research at the intersection of vision and language in medical AI [[pdf]](https://aclanthology.org/2022.acl-demo.3.pdf) [[code]](https://github.com/jbdel/vilmedic)
+- [**MICCAI 2022**] Multi-modal Masked Autoencoders for Medical Vision-and-Language Pre-training [[pdf]](https://arxiv.org/pdf/2209.07098.pdf) [[code]](https://github.com/zhjohnchan/M3AE)
+- [**IEEE Journal of Biomedical and Health Informatics 2022**] Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training [[pdf]](https://arxiv.org/pdf/2105.11333) [[code]](https://github.com/SuperSupermoon/MedViLL)
+- [**AAAI 2022**] Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/20204/19963)
+- [**arXiv 2022**] LViT: Language meets Vision Transformer in Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2206.14718) [[code]](https://github.com/HUANGLIZI/LViT)
+- [**arXiv 2023**] Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts [[pdf]](https://arxiv.org/pdf/2302.08958) [[code]](https://github.com/zhjohnchan/PTUnifier)
+- [**IEEE Journal of Biomedical and Health Informatics 2022**] Vision-language transformer for interpretable pathology visual question answering [[link]](https://ieeexplore.ieee.org/abstract/document/9745795)
+- [**arXiv 2022**] RoentGen: Vision-Language Foundation Model for Chest X-ray Generation [[pdf]](https://arxiv.org/pdf/2211.12737)
+- [**ECCV 2022**] Making the most of text semantics to improve biomedical vision–language processing [[pdf]](https://arxiv.org/pdf/2204.09817)
+- [**PMLR 2022**] Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation [[pdf]](https://proceedings.mlr.press/v162/li22n/li22n.pdf) [[code]](https://github.com/salesforce/BLIP)
+- [**arXiv 2023**] Large-Scale Domain-Specific Pretraining for Biomedical Vision-Language Processing [[pdf]](https://arxiv.org/pdf/2303.00915) [[code]](https://aka.ms/biomedclip)
+- [**MICCAI 2022**] Berthop: An effective vision-and-language model for chest x-ray disease diagnosis [[pdf]](https://arxiv.org/pdf/2108.04938)
+- [**ICLR 2023**] Advancing Radiograph Representation Learning with Masked Record Modeling [[pdf]](https://arxiv.org/pdf/2301.13155) [[code]](https://github.com/RL4M/MRM-pytorch)
