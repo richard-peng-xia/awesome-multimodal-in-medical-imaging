@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-82-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-84-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -105,3 +105,5 @@ This repository includes resources on several applications of multi-modal learni
 - [**MICCAI 2022**] RepsNet: Combining Vision with Language for Automated Medical Reports [[pdf]](https://arxiv.org/pdf/2209.13171) [[code]](https://sites.google.com/view/repsnet)
 - [**CVPR 2023**] Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing [[pdf]](https://arxiv.org/pdf/2301.04558)
 - [**NeurIPS 2022**] Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2210.06044) [[code]](https://github.com/fuying-wang/MGCA)
+- [**CVPR Workshop 2023**] One-shot and Partially-Supervised Cell Image Segmentation Using Small Visual Prompt [[pdf]](https://arxiv.org/pdf/2304.07991)
+- [**arXiv 2023**] CLIP-Lung: Textual Knowledge-Guided Lung Nodule Malignancy Prediction [[pdf]](https://arxiv.org/pdf/2304.08013.pdf)
