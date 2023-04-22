@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-84-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-86-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -107,3 +107,5 @@ This repository includes resources on several applications of multi-modal learni
 - [**NeurIPS 2022**] Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2210.06044) [[code]](https://github.com/fuying-wang/MGCA)
 - [**CVPR Workshop 2023**] One-shot and Partially-Supervised Cell Image Segmentation Using Small Visual Prompt [[pdf]](https://arxiv.org/pdf/2304.07991)
 - [**arXiv 2023**] CLIP-Lung: Textual Knowledge-Guided Lung Nodule Malignancy Prediction [[pdf]](https://arxiv.org/pdf/2304.08013.pdf)
+- [**arXiv 2023**] UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner [[pdf]](https://arxiv.org/abs/2304.03493) [[code]](https://github.com/yeerwen/UniSeg)
+- [**arXiv 2023**] UniverSeg: Universal Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2304.06131) [[project website]](https://universeg.csail.mit.edu/)
