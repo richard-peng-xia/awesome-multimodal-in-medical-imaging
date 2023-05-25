@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-87-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-90-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -66,6 +66,8 @@ Markdown format:
 - [**ICASSP 2023**] MvCo-DoT:Multi-View Contrastive Domain Transfer Network for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2304.07465.pdf)
 - [**CHIL 2023**] Token Imbalance Adaptation for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2304.09185) [[code]](https://github.com/woqingdoua/TIMER)
 - [**arXiv 2023**] Boosting Radiology Report Generation by Infusing Comparison Prior [[pdf]](https://arxiv.org/pdf/2305.04561)
+- [**AAAI 2023**] "Nothing Abnormal": Disambiguating Medical Reports via Contrastive Knowledge Infusion [[pdf]](https://arxiv.org/pdf/2305.08300) [[code]](https://github.com/ZexueHe/Med-DEPEN)
+- [**arXiv 2023**] Automatic Radiology Report Generation by Learning with Increasingly Hard Negatives [[pdf]](https://arxiv.org/pdf/2305.07176)
 
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
 - [**arXiv 2021**] MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2107.03216)
@@ -86,6 +88,7 @@ Markdown format:
 - [**arXiv 2023**] RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training [[pdf]](https://arxiv.org/pdf/2303.00534) [[code]](https://github.com/GanjinZero/RAMM) 
 - [**arXiv 2023**] Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder [[pdf]](https://arxiv.org/pdf/2304.01611)
 - [**arXiv 2023**] Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models [[pdf]](https://arxiv.org/pdf/2303.05977)
+- [**arXiv 2023**] PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2305.10415)
 
 ## Medical Vision-Language Model ![](https://img.shields.io/badge/Medical_Vision_Language_Model-blue)
 - [**ICLR 2023**] Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study [[pdf]](https://openreview.net/pdf?id=txlWziuCE5W) [[code]](https://github.com/MembrLab/MIU-VL)
