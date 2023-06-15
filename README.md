@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green) 
-![](https://img.shields.io/badge/PaperNumber-93-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-98-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 This repository includes resources on several applications of multi-modal learning in medical imaging.
@@ -54,7 +54,7 @@ Markdown format:
 - [**arXiv 2022**] Self adaptive global-local feature enhancement for radiology report generation [[pdf]](https://arxiv.org/pdf/2211.11380)
 - [**BMVC 2022**] On the Importance of Image Encoding in Automated Chest X-Ray Report Generation [[pdf]](https://arxiv.org/pdf/2211.13465) [[code]](https://github.com/mudabek/encoding-cxr-report-gen)
 - [**arXiv 2022**] RoentGen: Vision-Language Foundation Model for Chest X-ray Generation [[pdf]](https://arxiv.org/pdf/2211.12737)
-- [**arXiv 2022**] DeltaNet:Conditional Medical Report Generation for COVID-19 Diagnosis [[pdf]](https://arxiv.org/pdf/2211.13229) [[code]](https://github.com/LX-doctorAI1/DeltaNet)
+- [**COLING 2022**] DeltaNet:Conditional Medical Report Generation for COVID-19 Diagnosis [[pdf]](https://arxiv.org/pdf/2211.13229) [[code]](https://github.com/LX-doctorAI1/DeltaNet)
 - [**arXiv 2023**] Unified Chest X-ray and Radiology Report Generation Model with Multi-view Chest X-rays [[pdf]](https://arxiv.org/pdf/2302.12172) [[code]](https://github.com/ttumyche/UniXGen)
 - [**ECCV 2022**] Cross-modal Prototype Driven Network for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2207.04818) [[code]](https://github.com/Markin-Wang/XProNet)
 - [**WWW 2023**] Auxiliary signal-guided knowledge encoder-decoder for medical report generation [[pdf]](https://link.springer.com/article/10.1007/s11280-022-01013-6)
@@ -68,12 +68,15 @@ Markdown format:
 - [**AAAI 2023**] "Nothing Abnormal": Disambiguating Medical Reports via Contrastive Knowledge Infusion [[pdf]](https://arxiv.org/pdf/2305.08300) [[code]](https://github.com/ZexueHe/Med-DEPEN)
 - [**arXiv 2023**] Automatic Radiology Report Generation by Learning with Increasingly Hard Negatives [[pdf]](https://arxiv.org/pdf/2305.07176)
 - [**arXiv 2023**] S4M: Generating Radiology Reports by A Single Model for Multiple Body Parts [[pdf]](https://arxiv.org/pdf/2305.16685) [[code]](https://github.com/YtongXie/S4M)
+- [**arXiv 2023**] XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models [[pdf]](https://arxiv.org/pdf/2306.07971) [[code]](https://github.com/mbzuai-oryx/XrayGPT)
+- [**ACL W 2023**] shs-nlp at RadSum23: Domain-Adaptive Pre-training of Instruction-tuned LLMs for Radiology Report Impression Generation [[pdf]](https://arxiv.org/pdf/2306.03264)
+- [**arXiv 2023**] Customizing General-Purpose Foundation Models for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2306.05642)
 
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
 - [**arXiv 2021**] MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2107.03216)
 - [**MICCAI 2022**] Consistency-preserving Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2206.13296) [[code]](https://github.com/sergiotasconmorales/consistency_vqa)
 - [**TMI 2020**] A Question-Centric Model for Visual Question Answering in Medical Imaging [[pdf]](https://arxiv.org/pdf/2003.08760) [[code]](https://github.com/vuhoangminh/vqa_medical)
-- [**arXiv 2021**] Medical Visual Question Answering: A Survey [[pdf]](https://arxiv.org/pdf/2111.10056)
+- [**Artif Intell Med 2023**] Medical Visual Question Answering: A Survey [[pdf]](https://arxiv.org/pdf/2111.10056)
 - [**MICCAI 2022**] Surgical-VQA: Visual Question Answering in Surgical Scenes using Transformer [[pdf]](https://arxiv.org/pdf/2206.11053) [[code]](https://github.com/lalithjets/Surgical_VQA)
 - [**CLEF 2020 Working Notes**] HCP-MIC at VQA-Med 2020: Effective visual representation for medical visual question answering [[pdf]](http://ceur-ws.org/Vol-2696/paper_74.pdf) [[code]](https://github.com/haifangong/HCP-MIC-at-ImageCLEF-VQA-Med-2020)
 - [**CLEF 2020 Working Notes**] TeamS at VQA-Med 2021: BBN-Orchestra for long-tailed medical visual question answering [[pdf]](http://ceur-ws.org/Vol-2936/paper-98.pdf) [[code]](https://github.com/d4l-data4life/BBNOrchestra-for-VQAmed2021)
@@ -123,3 +126,6 @@ Markdown format:
 - [**arXiv 2023**] Bi-VLGM : Bi-Level Class-Severity-Aware Vision-Language Graph Matching for Text Guided Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2305.12231)
 - [**arXiv 2023**] Prompt-based Tuning of Transformer Models for Multi-Center Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2305.18948)
 - [**arXiv 2023**] FoPro-KD: Fourier Prompted Effective Knowledge Distillation for Long-Tailed Medical Image Recognition [[pdf]](https://arxiv.org/pdf/2305.17421)
+- [**arXiv 2023**] XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models [[pdf]](https://arxiv.org/pdf/2306.07971) [[code]](https://github.com/mbzuai-oryx/XrayGPT)
+- [**CHIL 2023**] Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark [[pdf]](https://arxiv.org/pdf/2306.06494) [[code]](https://github.com/control-xl/medical-vision-langauge-transformer)
+- [**arXiv 2023**] Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias [[pdf]](https://arxiv.org/pdf/2305.19894)
