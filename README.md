@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-116-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-125-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -81,9 +81,12 @@ Markdown format:
 - [**arXiv 2023**] XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models [[pdf]](https://arxiv.org/pdf/2306.07971) [[code]](https://github.com/mbzuai-oryx/XrayGPT)
 - [**ACL W 2023**] shs-nlp at RadSum23: Domain-Adaptive Pre-training of Instruction-tuned LLMs for Radiology Report Impression Generation [[pdf]](https://arxiv.org/pdf/2306.03264)
 - [**arXiv 2023**] Customizing General-Purpose Foundation Models for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2306.05642)
-- [**arXiv 2023**] KiUT: Knowledge-injected U-Transformer for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2306.11345)
+- [**CVPR 2023**] KiUT: Knowledge-injected U-Transformer for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2306.11345)
 - [**arXiv 2023**] Utilizing Longitudinal Chest X-Rays and Reports to Pre-Fill Radiology Reports [[pdf]](https://arxiv.org/pdf/2306.08749) 
-- [**ACL 2023**] Replace and Report: NLP Assisted Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2306.17180) 
+- [**ACL 2023**] Replace and Report: NLP Assisted Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2306.17180)
+- [**ICCV 2023**] PRIOR: Prototype Representation Joint Learning from Medical Images and Reports [[pdf]](https://arxiv.org/pdf/2307.12577) [[code]](https://github.com/QtacierP/PRIOR)
+- [**ICML W 2023**] Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph [[pdf]](https://arxiv.org/pdf/2307.12526) [[code]](https://github.com/wangyixinxin/mrg-kg)
+- [**MICCAI 2023**] Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting [[pdf]](https://arxiv.org/pdf/2307.05766) [[code]](https://github.com/chantalmp/rad-restruct)
 
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
 
@@ -102,14 +105,17 @@ Markdown format:
 - [**arXiv 2022**] UnICLAM:Contrastive Representation Learning with Adversarial Masking for Unified and Interpretable Medical Vision Question Answering [[pdf]](https://arxiv.org/pdf/2212.10729)
 - [**arXiv 2023**] Interpretable Medical Image Visual Question Answering via Multi-Modal Relationship Graph Learning [[pdf]](https://arxiv.org/pdf/2302.09636)
 - [**arXiv 2023**] Medical visual question answering using joint self-supervised learning [[pdf]](https://arxiv.org/pdf/2302.13069)
-- [**arXiv 2023**] RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training [[pdf]](https://arxiv.org/pdf/2303.00534) [[code]](https://github.com/GanjinZero/RAMM)
+- [**ACM MM 2023**] RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training [[pdf]](https://arxiv.org/pdf/2303.00534) [[code]](https://github.com/GanjinZero/RAMM)
 - [**IPMI 2023**] Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder [[pdf]](https://arxiv.org/pdf/2304.01611)
 - [**arXiv 2023**] Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models [[pdf]](https://arxiv.org/pdf/2303.05977)
 - [**arXiv 2023**] PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2305.10415)
 - [**MICCAI 2023**] Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2307.05314) [[code]](https://github.com/pengfeiliHEU/MUMC)
-- [**MICCAI 2023**] Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2307.05182) [[code]](https://github.com/longbai1006/CAT-ViL)
-- [**MICCAI 2023**]Localized Questions in Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2307.01067) [[code]](https://github.com/sergiotasconmorales/locvqa)
+- [**MICCAI 2023**] Localized Questions in Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2307.01067) [[code]](https://github.com/sergiotasconmorales/locvqa)
 - [**arXiv 2023**] Multimodal Prompt Retrieval for Generative Visual Question Answering [[pdf]](https://arxiv.org/pdf/2306.17675) [[code]](https://github.com/tossowski/MultimodalPromptRetrieval)
+- [**KDD 2023**] Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2307.11986) [[code]](https://github.com/Holipori/MIMIC-Diff-VQA)
+- [**MICCAI 2023**] Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2307.12045) [[code]](https://github.com/longbai1006/CS-VQLA)
+- [**MICCAI 2023**] CAT-ViL: Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2307.05182) [[code]](https://github.com/longbai1006/CAT-ViL)
+- [**CLEF 2023**] UIT-Saviors at MEDVQA-GI 2023: Improving Multimodal Learning with Image Enhancement for Gastrointestinal Visual Question Answering [[pdf]](https://arxiv.org/pdf/2307.02783)
 
 ## Medical Vision-Language Model ![](https://img.shields.io/badge/Medical_Vision_Language_Model-blue)
 
@@ -151,3 +157,5 @@ Markdown format:
 - [**arXiv 2023**] Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias [[pdf]](https://arxiv.org/pdf/2305.19894)
 - [**arXiv 2023**] OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue [[pdf]](https://arxiv.org/pdf/2306.12174) [[code]](https://github.com/ML-AILab/OphGLM)
 - [**ICML W 2023**] A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis [[pdf]](https://arxiv.org/pdf/2307.01981)
+- [**MICCAI 2023**] M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization [[pdf]](https://arxiv.org/pdf/2307.08347) [[code]](https://github.com/cheliu-computation/m-flag-miccai2023)
+- [**MICCAI 2023**] Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training [[pdf]](https://arxiv.org/pdf/2307.07246) [[code]](https://github.com/ChenXiaoFei-CS/KoBo)
