@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-129-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-133-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -32,6 +32,10 @@ Markdown format:
 
 ## Medical Report Generation ![](https://img.shields.io/badge/Medical_Report_Generation-blue)
 
+- [**AAAI 2020**] When Radiology Report Generation Meets Knowledge Graph [[pdf]](https://arxiv.org/pdf/2002.08277)
+- [**AAAI 2019**] Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation [[pdf]](https://arxiv.org/pdf/1903.10122)
+- [**ICDM 2019**] Automatic Generation of Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp%3Ftp%3D%26arnumber%3D8970668)
+- [**MICCAI 2019**] Automatic Radiology Report Generation based on Multi-view Image Fusion and Medical Concept Enrichment [[pdf]](https://arxiv.org/pdf/1907.09085)
 - [**NeurIPS 2021 Datasets and Benchmarks Track (Round 2)**] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
 - [**CVPR 2022**] Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Modal_Clinical_Graph_Transformer_for_Ophthalmic_Report_Generation_CVPR_2022_paper.pdf)
 - [**EMNLP 2018**] Automated Generation of Accurate & Fluent Medical X-ray Reports [[pdf]](https://aclanthology.org/2021.emnlp-main.288.pdf) [[code]](https://github.com/ginobilinie/xray_report_generation)
