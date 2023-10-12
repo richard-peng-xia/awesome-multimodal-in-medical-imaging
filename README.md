@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-141-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-148-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -36,7 +36,7 @@ Markdown format:
 - [**AAAI 2019**] Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation [[pdf]](https://arxiv.org/pdf/1903.10122)
 - [**ICDM 2019**] Automatic Generation of Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp%3Ftp%3D%26arnumber%3D8970668)
 - [**MICCAI 2019**] Automatic Radiology Report Generation based on Multi-view Image Fusion and Medical Concept Enrichment [[pdf]](https://arxiv.org/pdf/1907.09085)
-- [**NeurIPS 2021 Datasets and Benchmarks Track (Round 2)**] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
+- [**NeurIPS 2021 D&B**] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[pdf]](https://openreview.net/pdf?id=FgYTwJbjbf) [[code]](https://github.com/mlii0117/FFA-IR)
 - [**CVPR 2022**] Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Modal_Clinical_Graph_Transformer_for_Ophthalmic_Report_Generation_CVPR_2022_paper.pdf)
 - [**EMNLP 2018**] Automated Generation of Accurate & Fluent Medical X-ray Reports [[pdf]](https://aclanthology.org/2021.emnlp-main.288.pdf) [[code]](https://github.com/ginobilinie/xray_report_generation)
 - [**ACL 2018**] On the Automatic Generation of Medical Imaging Reports [[pdf]](https://arxiv.org/pdf/1711.08195.pdf) [[code]](https://github.com/ginobilinie/xray_report_generation)
@@ -95,6 +95,10 @@ Markdown format:
 - [**arXiv 2023**] Can Prompt Learning Benefit Radiology Report Generation? [[pdf]](https://arxiv.org/pdf/2308.16269)
 - [**arXiv 2023**] Finding-Aware Anatomical Tokens for Chest X-Ray Automated Reporting [[pdf]](https://arxiv.org/pdf/2308.15961)
 - [**arXiv 2023**] PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2308.12604)
+- [**arXiv 2023**] Dynamic Multi-Domain Knowledge Networks for Chest X-ray Report Generation [[pdf]](https://arxiv.org/pdf/2310.05119)
+- [**arXiv 2023**] ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Report Generation Based on Multi-institution and Multi-system Data [[pdf]](https://arxiv.org/pdf/2310.05242)
+- [**MedIA 2023**] C^2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network [[pdf]](https://arxiv.org/pdf/2310.05355)
+- [**EMNLP 2023 Findings**] Controllable Chest X-Ray Report Generation from Longitudinal Representations [[pdf]](https://arxiv.org/pdf/2310.05881)
   
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
 
@@ -124,6 +128,7 @@ Markdown format:
 - [**MICCAI 2023**] Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2307.12045) [[code]](https://github.com/longbai1006/CS-VQLA)
 - [**MICCAI 2023**] CAT-ViL: Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2307.05182) [[code]](https://github.com/longbai1006/CAT-ViL)
 - [**CLEF 2023**] UIT-Saviors at MEDVQA-GI 2023: Improving Multimodal Learning with Image Enhancement for Gastrointestinal Visual Question Answering [[pdf]](https://arxiv.org/pdf/2307.02783)
+- [**DICTA 2023**] Visual Question Answering in the Medical Domain [[pdf]](https://arxiv.org/pdf/2309.11080)
 
 ## Medical Vision-Language Model ![](https://img.shields.io/badge/Medical_Vision_Language_Model-blue)
 
@@ -175,3 +180,5 @@ Markdown format:
 - [**arXiv 2023**] Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models [[pdf]](https://arxiv.org/pdf/2308.07706)
 - [**arXiv 2023**] Few-shot medical image classification with simple shape and texture text descriptors using vision-language models [[pdf]](https://arxiv.org/pdf/2308.04005)
 - [**ICCV 2023**] ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data [[pdf]](https://arxiv.org/pdf/2308.11194) [[code]](https://github.com/stanfordmimi/villa)
+- [**arXiv 2023**] IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2310.07355)
+- [**arXiv 2023**] Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images [[pdf]](https://arxiv.org/pdf/2310.07027)
