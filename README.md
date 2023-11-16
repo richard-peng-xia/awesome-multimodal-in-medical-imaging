@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-161-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-163-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -148,6 +148,7 @@ Markdown format:
 - [**CLEF 2023**] UIT-Saviors at MEDVQA-GI 2023: Improving Multimodal Learning with Image Enhancement for Gastrointestinal Visual Question Answering [[pdf]](https://arxiv.org/pdf/2307.02783)
 - [**DICTA 2023**] Visual Question Answering in the Medical Domain [[pdf]](https://arxiv.org/pdf/2309.11080)
 - [**NeurIPS 2023 D&B**] EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images [[pdf]](https://arxiv.org/pdf/2310.18652) [[code]](https://github.com/baeseongsu/ehrxqa)
+- [**TETCI 2023**] Parameter-Efficient Transfer Learning for Medical Visual Question Answering [[pdf]](https://ieeexplore.ieee.org/abstract/document/10256025)
 
 ## Medical Vision-Language Model ![](https://img.shields.io/badge/Medical_Vision_Language_Model-blue)
 
@@ -174,7 +175,7 @@ Markdown format:
 - [**ICLR 2023**] Advancing Radiograph Representation Learning with Masked Record Modeling [[pdf]](https://arxiv.org/pdf/2301.13155) [[code]](https://github.com/RL4M/MRM-pytorch)
 - [**arXiv 2023**] ConTEXTual Net: A Multimodal Vision-Language Model for Segmentation of Pneumothorax [[pdf]](https://arxiv.org/pdf/2303.01615)
 - [**MICCAI 2023**] PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents [[pdf]](https://arxiv.org/pdf/2303.07240)
-- [**arXiv 2023**] ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models [[pdf]](https://arxiv.org/pdf/2302.07257)[[code]](https://github.com/zhaozh10/ChatCAD)
+- [**arXiv 2023**] **ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models** [[pdf]](https://arxiv.org/pdf/2302.07257)[[code]](https://github.com/zhaozh10/ChatCAD)
 - [**ICCV 2023**] MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2301.02228) [[project]](https://chaoyi-wu.github.io/MedKLIP/)
 - [**CVPR 2023**] Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing [[pdf]](https://arxiv.org/pdf/2301.04558)
 - [**CVPR W 2023**] One-shot and Partially-Supervised Cell Image Segmentation Using Small Visual Prompt [[pdf]](https://arxiv.org/pdf/2304.07991)
