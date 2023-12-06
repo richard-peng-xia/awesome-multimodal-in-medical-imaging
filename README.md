@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-173-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-174-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -219,3 +219,4 @@ Markdown format:
 - [**arXiv 2023**] **RO-LLaMA: Generalist LLM for Radiation Oncology via Noise Augmentation and Consistency Regularization** [[pdf]](https://arxiv.org/pdf/2311.15876)
 - [**arXiv 2023**] **MedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model** [[pdf]](https://arxiv.org/pdf/2312.02233)
 - [**arXiv 2023**] G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2312.01522)
+- [**npj digital medicine**] A medical multimodal large language model for future pandemics [[pdf]](https://www.nature.com/articles/s41746-023-00952-2)
