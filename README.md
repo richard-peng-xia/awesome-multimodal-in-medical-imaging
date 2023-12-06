@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-162-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-173-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -109,9 +109,15 @@ Markdown format:
 - [**EMNLP 2023 Findings**] Controllable Chest X-Ray Report Generation from Longitudinal Representations [[pdf]](https://arxiv.org/pdf/2310.05881)
 - [**BIBM 2023**] Enhanced Knowledge Injection for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2311.00399)
 - [**EMNLP 2023 Findings**] Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting [[pdf]](https://arxiv.org/pdf/2310.17811)
-- [**arXiv 2023**] Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning [[pdf]](https://arxiv.org/pdf/2311.01004)
+- [**arXiv 2023**] **Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning** [[pdf]](https://arxiv.org/pdf/2311.01004)
 - [**ACL 2023**] ORGAN: Observation-Guided Radiology Report Generation via Tree-Reasoning [[pdf](https://aclanthology.org/2023.acl-long.451/)] [[code]](https://github.com/wjhou/ORGan)
 - [**EMNLP 2023 Findings**] RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning [[pdf](https://arxiv.org/abs/2310.13864)] [[code](https://github.com/wjhou/Recap)]
+- [**arXiv 2023**] **RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance** [[pdf]](https://arxiv.org/pdf/2311.18681) [[code]](https://github.com/ChantalMP/RaDialog)
+- [**arXiv 2023**] Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation [[pdf]](https://arxiv.org/pdf/2311.18260)
+- [**NeurIPS W 2023**] Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2312.01504)
+- [**arXiv 2023**] Radiology-Aware Model-Based Evaluation Metric for Report Generation [[pdf]](https://arxiv.org/pdf/2311.16764)
+- [**arXiv 2023**] Radiology Report Generation Using Transformers Conditioned with Non-imaging Data [[pdf]](https://arxiv.org/pdf/2311.11097)
+- [**arXiv 2023**] Beyond Images: An Integrative Multi-modal Approach to Chest X-Ray Report Generation [[pdf]](https://arxiv.org/pdf/2311.11090)
 ### 2024
 - [**WACV 2024**] Complex Organ Mask Guided Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2311.02329) [[code]](https://github.com/GaryGuTC/COMG_model)
   
@@ -187,6 +193,7 @@ Markdown format:
 - [**arXiv 2023**] FoPro-KD: Fourier Prompted Effective Knowledge Distillation for Long-Tailed Medical Image Recognition [[pdf]](https://arxiv.org/pdf/2305.17421)
 - [**arXiv 2023**] **ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs** [[pdf]](https://arxiv.org/abs/2305.15964)[[code]](https://github.com/zhaozh10/ChatCAD)
 - [**arXiv 2023**] **XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models** [[pdf]](https://arxiv.org/pdf/2306.07971) [[code]](https://github.com/mbzuai-oryx/XrayGPT)
+- [**arXiv 2023**] **BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks** [[pdf]](https://arxiv.org/pdf/2305.17100) [[code]](https://github.com/taokz/BiomedGPT)
 - [**CHIL 2023**] Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark [[pdf]](https://arxiv.org/pdf/2306.06494) [[code]](https://github.com/control-xl/medical-vision-langauge-transformer)
 - [**arXiv 2023**] Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias [[pdf]](https://arxiv.org/pdf/2305.19894)
 - [**arXiv 2023**] **OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue** [[pdf]](https://arxiv.org/pdf/2306.12174) [[code]](https://github.com/ML-AILab/OphGLM)
@@ -208,3 +215,7 @@ Markdown format:
 - [**NeurIPS 2023**] **LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day** [[pdf]](https://arxiv.org/pdf/2306.00890) [[code]](https://github.com/microsoft/LLaVA-Med)
 - [**arXiv 2023**] **Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data** [[pdf]](https://arxiv.org/pdf/2308.02463) [[code]](https://github.com/chaoyi-wu/RadFM)
 - [**arXiv 2023**] **Can GPT-4V (ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis** [[pdf]](https://arxiv.org/pdf/2310.09909) [[code]](https://github.com/chaoyi-wu/GPT-4V_Medical_Evaluation)
+- [**arXiv 2023**] Unified Medical Image Pre-training in Language-Guided Common Semantic Space [[pdf]](https://arxiv.org/pdf/2311.14851)
+- [**arXiv 2023**] **RO-LLaMA: Generalist LLM for Radiation Oncology via Noise Augmentation and Consistency Regularization** [[pdf]](https://arxiv.org/pdf/2311.15876)
+- [**arXiv 2023**] **MedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model** [[pdf]](https://arxiv.org/pdf/2312.02233)
+- [**arXiv 2023**] G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2312.01522)
