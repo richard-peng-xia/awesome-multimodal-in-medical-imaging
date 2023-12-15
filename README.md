@@ -29,6 +29,7 @@ Markdown format:
 - [**arXiv 2022**] Visual Attention Methods in Deep Learning: An In-Depth Survey [[pdf]](https://arxiv.org/pdf/2204.07756.pdf)
 - [**arXiv 2022**] Vision+X: A Survey on Multimodal Learning in the Light of Data [[pdf]](https://arxiv.org/pdf/2210.02884)
 - [**arXiv 2023**] Vision Language Models for Vision Tasks: A Survey [[pdf]](https://arxiv.org/pdf/2304.00685) [[code]](https://github.com/jingyi0000/VLM_survey)
+- [**arXiv 2023**] A Systematic Review of Deep Learning-based Research on Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2311.14199.pdf) [[code]](https://github.com/synlp/RRG-Review)
 - [**Artif Intell Med 2023**] Medical Visual Question Answering: A Survey [[pdf]](https://arxiv.org/pdf/2111.10056)
 
 ## Medical Report Generation ![](https://img.shields.io/badge/Medical_Report_Generation-blue)
