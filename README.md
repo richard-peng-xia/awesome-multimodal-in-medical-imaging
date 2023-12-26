@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-183-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-188-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -31,6 +31,8 @@ Markdown format:
 - [**arXiv 2023**] Vision Language Models for Vision Tasks: A Survey [[pdf]](https://arxiv.org/pdf/2304.00685) [[code]](https://github.com/jingyi0000/VLM_survey)
 - [**arXiv 2023**] A Systematic Review of Deep Learning-based Research on Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2311.14199.pdf) [[code]](https://github.com/synlp/RRG-Review)
 - [**Artif Intell Med 2023**] Medical Visual Question Answering: A Survey [[pdf]](https://arxiv.org/pdf/2111.10056)
+- [**arXiv 2023**] Medical Vision Language Pretraining: A survey [[pdf]](https://arxiv.org/pdf/2312.06224)
+- [**arXiv 2023**] CLIP in Medical Imaging: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2312.07353) [[code]](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging)
 
 ## Medical Report Generation ![](https://img.shields.io/badge/Medical_Report_Generation-blue)
 
@@ -230,3 +232,6 @@ Markdown format:
 - [**arXiv 2023**] **MEDAGENTS: Large Language Models as Collaborators for Zero-shot Medical Reasoning** [[pdf]](https://arxiv.org/pdf/2311.10537) [[code]](https://github.com/gersteinlab/MedAgents)
 - [**arXiv 2023**] **MedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model** [[pdf]](https://arxiv.org/pdf/2312.02233)
 - [**arXiv 2023**] **A Foundational Multimodal Vision Language AI Assistant for Human Pathology** [[pdf]](https://arxiv.org/pdf/2312.07814)
+- [**arXiv 2023**] UniDCP: Unifying Multiple Medical Vision-language Tasks via Dynamic Cross-modal Learnable Prompts [[pdf]](https://arxiv.org/pdf/2312.11171)
+- [**arXiv 2023**] ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training [[pdf]](https://arxiv.org/pdf/2312.13316) [[code]](https://github.com/ToniChopp/ECAMP)
+- [**arXiv 2023**] Fine-Grained Image-Text Alignment in Medical Imaging Enables Cyclic Image-Report Generation [[pdf]](https://arxiv.org/pdf/2312.08078)
