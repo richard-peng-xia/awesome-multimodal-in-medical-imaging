@@ -128,10 +128,10 @@ Markdown format:
 - [**NLPCC 2023**] Medical Report Generation based on Segment-Enhanced Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2312.15869)
 - [**arXiv 2023**] Fine-Grained Image-Text Alignment in Medical Imaging Enables Cyclic Image-Report Generation [[pdf]](https://arxiv.org/pdf/2312.08078)
 - [**MICCAI 2023**] SGT: Scene Graph-Guided Transformer for Surgical Report Generation
- [[pdf]](https://arxiv.org/pdf/2312.08078) [[code]](https://github.com/ccccchenllll/SGT_master)
+ [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_48) [[code]](https://github.com/ccccchenllll/SGT_master)
 
 ### 2024
-- [**WACV 2024**] Complex Organ Mask Guided Radiology Report Generation [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_48) [[code]](https://github.com/GaryGuTC/COMG_model)
+- [**WACV 2024**] Complex Organ Mask Guided Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2311.02329) [[code]](https://github.com/GaryGuTC/COMG_model)
 
 - [**TMM 2024**] From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[pdf]](https://ieeexplore.ieee.org/document/10356722) (Early Access)
 
