@@ -255,3 +255,4 @@ Markdown format:
 - [**arXiv 2024**] **WoLF: Wide-scope Large Language Model Framework for CXR Understanding** [[pdf]](https://arxiv.org/pdf/2403.15456)
 - [**CVPR 2024**] Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework [[pdf]](https://arxiv.org/pdf/2403.07636) [[code]](https://github.com/HieuPhan33/MAVL)
 - [**arXiv 2024**] **Large Model driven Radiology Report Generation with Clinical Quality Reinforcement Learning** [[pdf]](https://arxiv.org/pdf/2403.06728)
+- [**arXiv 2024**] **MedRG: Medical Report Grounding with Multi-modal Large Language Model** [[pdf]](https://arxiv.org/abs/2303.07618)
