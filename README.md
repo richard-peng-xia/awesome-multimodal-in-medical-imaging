@@ -24,6 +24,8 @@ Markdown format:
 - [Medical Visual Question Answering](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging#medical-visual-question-answering)
 - [Medical Vision-Language Model](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging#medical-vision-language-model)
 
+---
+
 ## Survey ![](https://img.shields.io/badge/survey-red)
 
 - [**arXiv 2022**] Visual Attention Methods in Deep Learning: An In-Depth Survey [[pdf]](https://arxiv.org/pdf/2204.07756.pdf)
@@ -34,6 +36,8 @@ Markdown format:
 - [**arXiv 2023**] Medical Vision Language Pretraining: A survey [[pdf]](https://arxiv.org/pdf/2312.06224)
 - [**arXiv 2023**] CLIP in Medical Imaging: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2312.07353) [[code]](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging)
 - [**arXiv 2024**] Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review [[pdf]](https://arxiv.org/pdf/2403.02469)
+
+---
 
 ## Medical Report Generation ![](https://img.shields.io/badge/Medical_Report_Generation-blue)
 
@@ -131,6 +135,8 @@ Markdown format:
 - [**arXiv 2024**] MedCycle: Unpaired Medical Report Generation via Cycle-Consistency [[pdf]](https://arxiv.org/pdf/2403.13444)
 - [**arXiv 2024**] Scene Graph Aided Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2403.05687)
 
+---
+
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
 
 ### 2020
@@ -173,6 +179,8 @@ Markdown format:
 - [**ICASSP 2024**] Prompt-based Personalized Federated Learning for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2402.09677)
 - [**arXiv 2024**] RJUA-MedDQA: A Multimodal Benchmark for Medical Document Question Answering and Clinical Reasoning [[pdf]](https://arxiv.org/pdf/2402.14840)
 - [**arXiv 2024**] Design as Desired: Utilizing Visual Question Answering for Multimodal Pre-training [[pdf]](https://arxiv.org/pdf/2404.00226)
+
+---
 
 ## Medical Vision-Language Model ![](https://img.shields.io/badge/Medical_Vision_Language_Model-blue)
 
@@ -261,3 +269,17 @@ Markdown format:
 - [**CVPR 2024**] Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning [[pdf]](https://arxiv.org/pdf/2311.17597) [[code]](https://github.com/yeerwen/MedCoSS)
 - [**CVPR 2024**] PairAug: What Can Augmented Image-Text Pairs Do for Radiology? [[pdf]](https://arxiv.org/pdf/2404.04960) [[code]](https://github.com/YtongXie/PairAug)
 - [**CVPR 2024**] MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning [[pdf]](https://arxiv.org/pdf/2402.02045)
+
+---
+
+## 🎉 Contribution
+
+### Contributing to this paper list
+
+⭐" **Join us in improving this repository!** If you know of any important works we've missed, please contribute. Your efforts are highly valued!   "
+
+### Contributors
+
+<a href="https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=richard-peng-xia/awesome-multimodal-in-medical-imaging" />
+</a>
