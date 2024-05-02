@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-204-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-206-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -270,6 +270,8 @@ Markdown format:
 - [**CVPR 2024**] Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning [[pdf]](https://arxiv.org/pdf/2311.17597) [[code]](https://github.com/yeerwen/MedCoSS)
 - [**CVPR 2024**] PairAug: What Can Augmented Image-Text Pairs Do for Radiology? [[pdf]](https://arxiv.org/pdf/2404.04960) [[code]](https://github.com/YtongXie/PairAug)
 - [**CVPR 2024**] MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning [[pdf]](https://arxiv.org/pdf/2402.02045)
+- [**Nature Medicine**] A visual-language foundation model for computational pathology [[pdf]](https://www.nature.com/articles/s41591-024-02856-4) [[code]](https://github.com/mahmoodlab/CONCH)
+- [**Nature Medicine**] Vision–language foundation model for echocardiogram interpretation [[pdf]](https://www.nature.com/articles/s41591-024-02959-y) [[code]](https://github.com/echonet/echo_CLIP)
 
 ---
 
