@@ -27,9 +27,9 @@ Markdown format:
 ```python
 @article{xia2024cares,
   title={CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models},
-  author={Peng Xia and Ze Chen and Juanxi Tian and Yangrui Gong and Ruibo Hou and Yue Xu and Zhenbang Wu and Zhiyuan Fan and Yiyang Zhou and Kangyu Zhu and Wenhao Zheng and Zhaoyang Wang and Xiao Wang and Xuchao Zhang and Chetan Bansal and Marc Niethammer and Junzhou Huang and Hongtu Zhu and Yun Li and Jimeng Sun and Zongyuan Ge and Gang Li and James Zou and Huaxiu Yao},
+  author={Xia, Peng and Chen, Ze and Tian, Juanxi and Gong, Yangrui and Hou, Ruibo and Xu, Yue and Wu, Zhenbang and Fan, Zhiyuan and Zhou, Yiyang and Zhu, Kangyu and others},
   journal={arXiv preprint arXiv:2406.06007},
-  year={2024},
+  year={2024}
 }
 ```
 
@@ -70,6 +70,7 @@ Markdown format:
 |                [VQA-Med](https://github.com/abachaa/VQA-Med-2021)                    | radiology  | 4.5k  |   5.5k | En |
 |               [PMC-VQA](https://github.com/xiaoman-zhang/PMC-VQA) | multiple | 149k | 227k | En |
 |                [OmniMedVQA](https://github.com/OpenGVLab/Multi-Modality-Arena) | multiple | 118k | 128k | En |
+|              [ProbMed](https://github.com/eric-ai-lab/ProbMed) | radiology | 6k | 57k | En |
  
 
 ---
@@ -215,6 +216,7 @@ Markdown format:
 - [**ICASSP 2024**] Prompt-based Personalized Federated Learning for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2402.09677)
 - [**arXiv 2024**] RJUA-MedDQA: A Multimodal Benchmark for Medical Document Question Answering and Clinical Reasoning [[pdf]](https://arxiv.org/pdf/2402.14840)
 - [**arXiv 2024**] Design as Desired: Utilizing Visual Question Answering for Multimodal Pre-training [[pdf]](https://arxiv.org/pdf/2404.00226)
+- [**arXiv 2024**] Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA [[pdf]](https://arxiv.org/pdf/2405.20421) [[code]](https://github.com/eric-ai-lab/ProbMed)
 
 ---
 
@@ -308,6 +310,7 @@ Markdown format:
 - [**Nature Medicine 2024**] Vision–language foundation model for echocardiogram interpretation [[pdf]](https://www.nature.com/articles/s41591-024-02959-y) [[code]](https://github.com/echonet/echo_CLIP)
 - [**TMI 2024**] **ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs** [[pdf]](https://arxiv.org/abs/2305.15964)[[code]](https://github.com/zhaozh10/ChatCAD)
 - [**arXiv 2024**] **MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning** [[pdf]](https://arxiv.org/pdf/2404.15127) [[code]](https://github.com/sunanhe/MedDr)
+- [**arXiv 2024**] **CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2406.06007) [[code]](https://github.com/richard-peng-xia/CARES)
 
 ---
 
