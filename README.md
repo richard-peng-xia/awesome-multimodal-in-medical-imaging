@@ -296,7 +296,6 @@ Markdown format:
 - [**arXiv 2024**] **Enhancing Human-Computer Interaction in Chest X-ray Analysis using Vision and Language Model with Eye Gaze Patterns** [[pdf]](Https://arxiv.org/pdf/2404.02370)
 - [**arXiv 2024**] DeViDe: Faceted medical knowledge for improved medical vision-language pre-training [[pdf]](https://arxiv.org/pdf/2404.03618)
 - [**arXiv 2024**] **M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models** [[pdf]](https://arxiv.org/pdf/2404.00578) [[code]](https://github.com/BAAI-DCAI/M3D)
-- [**ACL 2024 Findings**] **MEDAGENTS: Large Language Models as Collaborators for Zero-shot Medical Reasoning** [[pdf]](https://arxiv.org/pdf/2311.10537) [[code]](https://github.com/gersteinlab/MedAgents)
 - [**arXiv 2024**] **Dia-LLaMA: Towards Large Language Model-driven CT Report Generation** [[pdf]](https://arxiv.org/pdf/2403.16386)
 - [**arXiv 2024**] **WoLF: Wide-scope Large Language Model Framework for CXR Understanding** [[pdf]](https://arxiv.org/pdf/2403.15456)
 - [**CVPR 2024**] Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework [[pdf]](https://arxiv.org/pdf/2403.07636) [[code]](https://github.com/HieuPhan33/MAVL)
@@ -311,7 +310,11 @@ Markdown format:
 - [**TMI 2024**] **ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs** [[pdf]](https://arxiv.org/abs/2305.15964)[[code]](https://github.com/zhaozh10/ChatCAD)
 - [**arXiv 2024**] **MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning** [[pdf]](https://arxiv.org/pdf/2404.15127) [[code]](https://github.com/sunanhe/MedDr)
 - [**arXiv 2024**] **CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2406.06007) [[code]](https://github.com/richard-peng-xia/CARES)
-- [**MIDL 2024**] **Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models** [[pdf]](https://arxiv.org/pdf/2308.07706) [[code]](https://github.com/naamiinepal/medvlsm)
+- [**MIDL 2024**] Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models [[pdf]](https://arxiv.org/pdf/2308.07706) [[code]](https://github.com/naamiinepal/medvlsm)
+- [**arXiv 2024**] Surgical-LVLM: Learning to Adapt Large Vision-Language Model for Grounded Visual Question Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2405.10948) [[code]](https://github.com/gkw0010/Surgical-LVLM)
+- [**arXiv 2024**] **Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding** [[pdf]](https://arxiv.org/pdf/2405.19567) [[code]](https://github.com/AlaaLab/Dr-LLaVA)
+- [**arXiv 2024**] **Merlin: A Vision Language Foundation Model for 3D Computed Tomography** [[pdf]](https://arxiv.org/pdf/2406.06512) 
+- [**arXiv 2024**] **Advancing High Resolution Vision-Language Models in Biomedicine** [[pdf]](https://arxiv.org/pdf/2406.06512) [[code]](https://github.com/standardmodelbio/Llama3-Med)
 
 ---
 
