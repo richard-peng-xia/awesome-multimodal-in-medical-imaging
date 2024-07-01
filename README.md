@@ -314,7 +314,7 @@ Markdown format:
 - [**arXiv 2024**] Surgical-LVLM: Learning to Adapt Large Vision-Language Model for Grounded Visual Question Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2405.10948) [[code]](https://github.com/gkw0010/Surgical-LVLM)
 - [**arXiv 2024**] **Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding** [[pdf]](https://arxiv.org/pdf/2405.19567) [[code]](https://github.com/AlaaLab/Dr-LLaVA)
 - [**arXiv 2024**] **Merlin: A Vision Language Foundation Model for 3D Computed Tomography** [[pdf]](https://arxiv.org/pdf/2406.06512) 
-- [**arXiv 2024**] **Advancing High Resolution Vision-Language Models in Biomedicine** [[pdf]](https://arxiv.org/pdf/2406.06512) [[code]](https://github.com/standardmodelbio/Llama3-Med)
+- [**arXiv 2024**] **Advancing High Resolution Vision-Language Models in Biomedicine** [[pdf]](https://arxiv.org/pdf/2406.09454) [[code]](https://github.com/standardmodelbio/Llama3-Med)
 
 ---
 
