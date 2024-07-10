@@ -19,7 +19,8 @@ Markdown format:
 
 ## News
 
-- **[2024-06]** :fire::fire:We release a new paper: "[CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://arxiv.org/abs/2406.06007)".
+- **[2024-07]** :fire::fire:We release a new paper on enhance the factuality of Med-VLMs with RAG: "[RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)".
+- **[2024-06]** :fire::fire:We release a new paper on evaluating Med-VLMs: "[CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://arxiv.org/abs/2406.06007)".
 - **[2022-07]** We create this repository to maintain a paper list on *multimodal applications in medical imaging*.
 
 ## Citation
@@ -29,6 +30,13 @@ Markdown format:
   title={CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models},
   author={Xia, Peng and Chen, Ze and Tian, Juanxi and Gong, Yangrui and Hou, Ruibo and Xu, Yue and Wu, Zhenbang and Fan, Zhiyuan and Zhou, Yiyang and Zhu, Kangyu and others},
   journal={arXiv preprint arXiv:2406.06007},
+  year={2024}
+}
+
+@article{xia2024rule,
+  title={RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models},
+  author={Xia, Peng and Zhu, Kangyu and Li, Haoran and Zhu, Hongtu and Li, Yun and Li, Gang and Zhang, Linjun and Yao, Huaxiu},
+  journal={arXiv preprint arXiv:2407.05131},
   year={2024}
 }
 ```
@@ -317,6 +325,7 @@ Markdown format:
 - [**arXiv 2024**] **Advancing High Resolution Vision-Language Models in Biomedicine** [[pdf]](https://arxiv.org/pdf/2406.09454) [[code]](https://github.com/standardmodelbio/Llama3-Med)
 - [**arXiv 2024**] **HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale** [[pdf]](https://arxiv.org/pdf/2406.19280) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)
 - [**arXiv 2024**] **STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical** [[pdf]](https://arxiv.org/pdf/2406.19973) [[code]](https://github.com/heliossun/STLLaVA-Med)
+- [**arXiv 2024**] **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2407.05131) [[code]](https://github.com/richard-peng-xia/RULE)
 
 ---
 
