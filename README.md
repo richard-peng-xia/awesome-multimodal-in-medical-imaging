@@ -326,6 +326,7 @@ Markdown format:
 - [**arXiv 2024**] **HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale** [[pdf]](https://arxiv.org/pdf/2406.19280) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)
 - [**arXiv 2024**] **STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical** [[pdf]](https://arxiv.org/pdf/2406.19973) [[code]](https://github.com/heliossun/STLLaVA-Med)
 - [**arXiv 2024**] **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2407.05131) [[code]](https://github.com/richard-peng-xia/RULE)
+- [**MICCAI 2024**] CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting [[pdf]](https://arxiv.org/pdf/2407.04068) [[code]](https://github.com/Qinkaiyu/CLIP-DR)
 
 ---
 
