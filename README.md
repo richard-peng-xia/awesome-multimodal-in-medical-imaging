@@ -183,6 +183,7 @@ Markdown format:
 - [**arXiv 2024**] Dual-modal Dynamic Traceback Learning for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2401.13267)
 - [**arXiv 2024**] MedCycle: Unpaired Medical Report Generation via Cycle-Consistency [[pdf]](https://arxiv.org/pdf/2403.13444)
 - [**arXiv 2024**] Scene Graph Aided Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2403.05687)
+- [**ACL 2024 Findings**] Extracting and Encoding: Leveraging Large Language Models and Medical Knowledge to Enhance Radiological Text Representation [[pdf]](https://arxiv.org/pdf/2407.01948) [[code]](https://github.com/PabloMessina/CXR-Fact-Encoder)
 
 ---
 
