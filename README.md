@@ -19,6 +19,7 @@ Markdown format:
 
 ## News
 
+- **[2024-09]** 🎉🎉 [RULE](https://arxiv.org/abs/2407.05131) was accepted at EMNLP'24 main conference! 
 - **[2024-07]** :fire::fire:We release a new paper on enhance the factuality of Med-VLMs with RAG: "[RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)".
 - **[2024-06]** :fire::fire:We release a new paper on evaluating Med-VLMs: "[CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://arxiv.org/abs/2406.06007)".
 - **[2022-07]** We create this repository to maintain a paper list on *multimodal applications in medical imaging*.
