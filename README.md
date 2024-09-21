@@ -328,7 +328,7 @@ Markdown format:
 - [**arXiv 2024**] **Advancing High Resolution Vision-Language Models in Biomedicine** [[pdf]](https://arxiv.org/pdf/2406.09454) [[code]](https://github.com/standardmodelbio/Llama3-Med)
 - [**arXiv 2024**] **HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale** [[pdf]](https://arxiv.org/pdf/2406.19280) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)
 - [**arXiv 2024**] **STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical** [[pdf]](https://arxiv.org/pdf/2406.19973) [[code]](https://github.com/heliossun/STLLaVA-Med)
-- [**arXiv 2024**] **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2407.05131) [[code]](https://github.com/richard-peng-xia/RULE)
+- [**EMNLP 2024**] **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2407.05131) [[code]](https://github.com/richard-peng-xia/RULE)
 - [**MICCAI 2024**] CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting [[pdf]](https://arxiv.org/pdf/2407.04068) [[code]](https://github.com/Qinkaiyu/CLIP-DR)
 - [**arXiv 2024**] **PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding** [[pdf]](https://arxiv.org/pdf/2408.09530) [[code]](https://github.com/ddw2AIGROUP2CQUPT/PA-LLaVA)
 - [**arXiv 2024**] **LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning** [[pdf]](https://arxiv.org/pdf/2408.07981)
