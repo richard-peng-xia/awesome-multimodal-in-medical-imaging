@@ -19,7 +19,7 @@ Markdown format:
 
 ## News
 
-- **[2024-09]** 🎉🎉 [RULE](https://arxiv.org/abs/2407.05131) was accepted at EMNLP'24 main conference! 
+- **[2024-09]** 🎉🎉 [CARES](https://arxiv.org/abs/2406.06007) was accepted at NeurIPS'24, [RULE](https://arxiv.org/abs/2407.05131) was accepted at EMNLP'24 main conference! 
 - **[2024-07]** :fire::fire:We release a new paper on enhance the factuality of Med-VLMs with RAG: "[RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)".
 - **[2024-06]** :fire::fire:We release a new paper on evaluating Med-VLMs: "[CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://arxiv.org/abs/2406.06007)".
 - **[2022-07]** We create this repository to maintain a paper list on *multimodal applications in medical imaging*.
@@ -320,7 +320,7 @@ Markdown format:
 - [**Nature Medicine 2024**] Vision–language foundation model for echocardiogram interpretation [[pdf]](https://www.nature.com/articles/s41591-024-02959-y) [[code]](https://github.com/echonet/echo_CLIP)
 - [**TMI 2024**] **ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs** [[pdf]](https://arxiv.org/abs/2305.15964)[[code]](https://github.com/zhaozh10/ChatCAD)
 - [**arXiv 2024**] **MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning** [[pdf]](https://arxiv.org/pdf/2404.15127) [[code]](https://github.com/sunanhe/MedDr)
-- [**arXiv 2024**] **CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2406.06007) [[code]](https://github.com/richard-peng-xia/CARES)
+- [**NeurIPS 2024**] **CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2406.06007) [[code]](https://github.com/richard-peng-xia/CARES)
 - [**MIDL 2024**] Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models [[pdf]](https://arxiv.org/pdf/2308.07706) [[code]](https://github.com/naamiinepal/medvlsm)
 - [**arXiv 2024**] Surgical-LVLM: Learning to Adapt Large Vision-Language Model for Grounded Visual Question Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2405.10948) [[code]](https://github.com/gkw0010/Surgical-LVLM)
 - [**arXiv 2024**] **Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding** [[pdf]](https://arxiv.org/pdf/2405.19567) [[code]](https://github.com/AlaaLab/Dr-LLaVA)
