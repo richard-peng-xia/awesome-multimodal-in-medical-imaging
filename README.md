@@ -354,3 +354,5 @@ Markdown format:
 <a href="https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=richard-peng-xia/awesome-multimodal-in-medical-imaging" />
 </a>
+
+[![✨Star History Chart](https://api.star-history.com/svg?repos=richard-peng-xia/awesome-multimodal-in-medical-imaging&type=Date)](https://star-history.com/#bytebase/star-history&Date)
