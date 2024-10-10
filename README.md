@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-219-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-220-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -340,6 +340,7 @@ Markdown format:
 - [**arXiv 2024**] MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis [[pdf]](https://arxiv.org/pdf/2407.04106) [[code]](https://github.com/Vision-CAIR/MiniGPT-Med)
 - [**arXiv 2024**] MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context [[pdf]](https://arxiv.org/pdf/2407.02730) [[code]](https://github.com/dongzizhu/MedVH)
 - [**arXiv 2024**] Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm [[pdf]](https://arxiv.org/pdf/2408.08693)
+- [**arXiv 2024**] LOGRA-MED: Long Context Multi-Graph Alignment For Medical Vision-Language Model [[pdf]](https://arxiv.org/pdf/2410.02615)
 
 ---
 
