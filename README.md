@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-220-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-225-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -19,6 +19,7 @@ Markdown format:
 
 ## News
 
+- **[2024-10]** :fire::fire:We release a new paper on using versatile multimodal RAG system for Med-VLMs: "[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085)".
 - **[2024-09]** 🎉🎉 [CARES](https://arxiv.org/abs/2406.06007) was accepted at NeurIPS'24, [RULE](https://arxiv.org/abs/2407.05131) was accepted at EMNLP'24 main conference! 
 - **[2024-07]** :fire::fire:We release a new paper on enhance the factuality of Med-VLMs with RAG: "[RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)".
 - **[2024-06]** :fire::fire:We release a new paper on evaluating Med-VLMs: "[CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://arxiv.org/abs/2406.06007)".
@@ -38,6 +39,13 @@ Markdown format:
   title={RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models},
   author={Xia, Peng and Zhu, Kangyu and Li, Haoran and Zhu, Hongtu and Li, Yun and Li, Gang and Zhang, Linjun and Yao, Huaxiu},
   journal={arXiv preprint arXiv:2407.05131},
+  year={2024}
+}
+
+@article{xia2024mmedrag,
+  title={MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models},
+  author={Xia, Peng and Zhu, Kangyu and Li, Haoran and Wang, Tianze and Shi, Weijia and Wang, Sheng and Zhang, Linjun and Zou, James and Yao, Huaxiu},
+  journal={arXiv preprint arXiv:2410.13085},
   year={2024}
 }
 ```
@@ -341,6 +349,11 @@ Markdown format:
 - [**arXiv 2024**] MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context [[pdf]](https://arxiv.org/pdf/2407.02730) [[code]](https://github.com/dongzizhu/MedVH)
 - [**arXiv 2024**] Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm [[pdf]](https://arxiv.org/pdf/2408.08693)
 - [**arXiv 2024**] LOGRA-MED: Long Context Multi-Graph Alignment For Medical Vision-Language Model [[pdf]](https://arxiv.org/pdf/2410.02615)
+- [**arXiv 2024**] **WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation** [pdf]](https://arxiv.org/pdf/2410.12722) [[code]](https://github.com/WorldMedQA/V)
+- [**arXiv 2024**] **VividMed: Vision Language Model with Versatile Visual Grounding for Medicine** [[pdf]](https://arxiv.org/pdf/2410.12694) [[code]](https://github.com/function2-llx/MMMM)
+- [**arXiv 2024**] Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback [[pdf]](https://arxiv.org/pdf/2410.07025)
+- [**arXiv 2024**] MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation [[pdf]](https://arxiv.org/pdf/2409.19684)
+- [**arXiv 2024**] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2410.13085) [[code]](https://github.com/richard-peng-xia/MMed-RAG)
 
 ---
 
