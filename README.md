@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-225-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-227-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -42,7 +42,7 @@ Markdown format:
   year={2024}
 }
 
-@article{xia2024mmedrag,
+@article{xia2024mmed,
   title={MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models},
   author={Xia, Peng and Zhu, Kangyu and Li, Haoran and Wang, Tianze and Shi, Weijia and Wang, Sheng and Zhang, Linjun and Zou, James and Yao, Huaxiu},
   journal={arXiv preprint arXiv:2410.13085},
@@ -76,6 +76,7 @@ Markdown format:
 | [OpenPath](https://drive.google.com/drive/folders/1b5UT8BzUphkHZavRG-fmiyY9JWYIWZER) | histology | 208K  | 208K |          social media           |    En    | 
 |                        [Quilt-1M](https://quilt1m.github.io/)                        | histology |  1M   |  1M  | research papers<br>social media |    En    | 
 |     [Harvard-FairVLMed](https://ophai.hms.harvard.edu/datasets/harvard-fairvlmed10k) | fundus    |  10k  | 10K  |          medical reports        |    En    |
+|      [MedTrinity-25M](https://huggingface.co/datasets/UCSC-VLAA/MedTrinity-25M)      | multiple  | 25M   | 25M  | research papers<br>social media |    En    | 
 
 ### Visual Question Answering Datasets
 
@@ -349,11 +350,13 @@ Markdown format:
 - [**arXiv 2024**] MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context [[pdf]](https://arxiv.org/pdf/2407.02730) [[code]](https://github.com/dongzizhu/MedVH)
 - [**arXiv 2024**] Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm [[pdf]](https://arxiv.org/pdf/2408.08693)
 - [**arXiv 2024**] LOGRA-MED: Long Context Multi-Graph Alignment For Medical Vision-Language Model [[pdf]](https://arxiv.org/pdf/2410.02615)
-- [**arXiv 2024**] **WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation** [pdf]](https://arxiv.org/pdf/2410.12722) [[code]](https://github.com/WorldMedQA/V)
+- [**arXiv 2024**] **WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation** [[pdf]](https://arxiv.org/pdf/2410.12722) [[code]](https://github.com/WorldMedQA/V)
 - [**arXiv 2024**] **VividMed: Vision Language Model with Versatile Visual Grounding for Medicine** [[pdf]](https://arxiv.org/pdf/2410.12694) [[code]](https://github.com/function2-llx/MMMM)
 - [**arXiv 2024**] Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback [[pdf]](https://arxiv.org/pdf/2410.07025)
 - [**arXiv 2024**] MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation [[pdf]](https://arxiv.org/pdf/2409.19684)
 - [**arXiv 2024**] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2410.13085) [[code]](https://github.com/richard-peng-xia/MMed-RAG)
+- [**arXiv 2024**] Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks [[pdf]](https://arxiv.org/pdf/2410.18387) [[code]](https://github.com/xmed-lab/MedRegA)
+- [**arXiv 2024**] E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model [[pdf]](https://arxiv.org/pdf/2410.14200)
 
 ---
 
