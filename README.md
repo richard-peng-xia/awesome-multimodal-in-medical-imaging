@@ -184,8 +184,8 @@ Markdown format:
 - [**MICCAI 2023**] SGT: Scene Graph-Guided Transformer for Surgical Report Generation [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_48) [[code]](https://github.com/ccccchenllll/SGT_master)
 
 ### 2024
-- [**ICASSP 2024**] Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning [[pdf]](https://arxiv.org/pdf/2311.01004)
-- [**AAAI 2024**] PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2308.12604)
+- [**ICASSP 2024**] Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning [[pdf]](https://arxiv.org/pdf/2311.01004) [[code]](https://github.com/AHandsomePython/MSMedCap)
+- [**AAAI 2024**] PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2308.12604) [[code]](https://github.com/jhb86253817/promptmrg)
 - [**WACV 2024**] Complex Organ Mask Guided Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2311.02329) [[code]](https://github.com/GaryGuTC/COMG_model)
 - [**TMM 2024**] From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[pdf]](https://ieeexplore.ieee.org/document/10356722)
 - [**TMI 2024**] SGT++: Improved Scene Graph-guided Transformer for Surgical Report Generation [[pdf]](https://ieeexplore.ieee.org/document/10330637/)
