@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-227-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-231-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -35,10 +35,11 @@ Markdown format:
   year={2024}
 }
 
-@article{xia2024rule,
+@inproceedings{xia2024rule,
   title={RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models},
   author={Xia, Peng and Zhu, Kangyu and Li, Haoran and Zhu, Hongtu and Li, Yun and Li, Gang and Zhang, Linjun and Yao, Huaxiu},
-  journal={arXiv preprint arXiv:2407.05131},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={1081--1093},
   year={2024}
 }
 
@@ -336,7 +337,7 @@ Markdown format:
 - [**arXiv 2024**] **Merlin: A Vision Language Foundation Model for 3D Computed Tomography** [[pdf]](https://arxiv.org/pdf/2406.06512) 
 - [**arXiv 2024**] **Advancing High Resolution Vision-Language Models in Biomedicine** [[pdf]](https://arxiv.org/pdf/2406.09454) [[code]](https://github.com/standardmodelbio/Llama3-Med)
 - [**arXiv 2024**] **HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale** [[pdf]](https://arxiv.org/pdf/2406.19280) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)
-- [**arXiv 2024**] **STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical** [[pdf]](https://arxiv.org/pdf/2406.19973) [[code]](https://github.com/heliossun/STLLaVA-Med)
+- [**EMNLP 2024**] **STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical** [[pdf]](https://arxiv.org/pdf/2406.19973) [[code]](https://github.com/heliossun/STLLaVA-Med)
 - [**EMNLP 2024**] **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2407.05131) [[code]](https://github.com/richard-peng-xia/RULE)
 - [**MICCAI 2024**] CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting [[pdf]](https://arxiv.org/pdf/2407.04068) [[code]](https://github.com/Qinkaiyu/CLIP-DR)
 - [**arXiv 2024**] **PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding** [[pdf]](https://arxiv.org/pdf/2408.09530) [[code]](https://github.com/ddw2AIGROUP2CQUPT/PA-LLaVA)
@@ -357,6 +358,10 @@ Markdown format:
 - [**arXiv 2024**] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2410.13085) [[code]](https://github.com/richard-peng-xia/MMed-RAG)
 - [**arXiv 2024**] Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks [[pdf]](https://arxiv.org/pdf/2410.18387) [[code]](https://github.com/xmed-lab/MedRegA)
 - [**arXiv 2024**] E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model [[pdf]](https://arxiv.org/pdf/2410.14200)
+- [**NeurIPS 2024**] BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays [[pdf]](https://arxiv.org/pdf/2410.21969) [[code]](https://github.com/yangzhou12/BenchX)
+- [**EMNLP 2024**] Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress? [[pdf]](https://arxiv.org/pdf/2411.04118) [[code]](https://github.com/taekb/eval-medical-dapt)
+- [**arXiv 2024**] **Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance** [[pdf]](https://arxiv.org/pdf/2410.16261) [[code]](https://github.com/OpenGVLab/InternVL)
+- [**arXiv 2024**] SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation [[pdf]](https://arxiv.org/pdf/2410.14948) [[code]](https://github.com/believewhat/SemiHVision)
 
 ---
 
