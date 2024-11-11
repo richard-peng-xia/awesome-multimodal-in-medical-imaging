@@ -90,6 +90,7 @@ Markdown format:
 |               [PMC-VQA](https://github.com/xiaoman-zhang/PMC-VQA) | multiple | 149k | 227k | En |
 |                [OmniMedVQA](https://github.com/OpenGVLab/Multi-Modality-Arena) | multiple | 118k | 128k | En |
 |              [ProbMed](https://github.com/eric-ai-lab/ProbMed) | radiology | 6k | 57k | En |
+|              [PubMedVision](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision) | multiple | 914k | 1.3M| En |
  
 
 ---
@@ -336,7 +337,7 @@ Markdown format:
 - [**arXiv 2024**] **Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding** [[pdf]](https://arxiv.org/pdf/2405.19567) [[code]](https://github.com/AlaaLab/Dr-LLaVA)
 - [**arXiv 2024**] **Merlin: A Vision Language Foundation Model for 3D Computed Tomography** [[pdf]](https://arxiv.org/pdf/2406.06512) 
 - [**arXiv 2024**] **Advancing High Resolution Vision-Language Models in Biomedicine** [[pdf]](https://arxiv.org/pdf/2406.09454) [[code]](https://github.com/standardmodelbio/Llama3-Med)
-- [**arXiv 2024**] **HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale** [[pdf]](https://arxiv.org/pdf/2406.19280) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)
+- [**EMNLP 2024**] **HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale** [[pdf]](https://arxiv.org/pdf/2406.19280) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)
 - [**EMNLP 2024**] **STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical** [[pdf]](https://arxiv.org/pdf/2406.19973) [[code]](https://github.com/heliossun/STLLaVA-Med)
 - [**EMNLP 2024**] **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2407.05131) [[code]](https://github.com/richard-peng-xia/RULE)
 - [**MICCAI 2024**] CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting [[pdf]](https://arxiv.org/pdf/2407.04068) [[code]](https://github.com/Qinkaiyu/CLIP-DR)
