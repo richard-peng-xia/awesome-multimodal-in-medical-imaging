@@ -305,6 +305,7 @@ Markdown format:
 - [**arXiv 2023**] **A Foundational Multimodal Vision Language AI Assistant for Human Pathology** [[pdf]](https://arxiv.org/pdf/2312.07814)
 - [**arXiv 2023**] ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training [[pdf]](https://arxiv.org/pdf/2312.13316) [[code]](https://github.com/ToniChopp/ECAMP)
 - [**Nature Medicine 2023**] A visual–language foundation model for pathology image analysis using medical Twitter [[pdf]](https://www.nature.com/articles/s41591-023-02504-3) [[code]](https://github.com/PathologyFoundation/plip)
+- [**PAKDD 2023**] Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis [[pdf]](https://arxiv.org/abs/2303.11224) [[code]](https://github.com/saiboxx/chexray-diffusion)
 ### 2024
 - [**CVPR 2024**] Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos [[pdf]](https://arxiv.org/pdf/2312.04746.pdf) [[code-demo]](https://quilt-llava.github.io/)
 - [**ICASSP 2024**] Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2401.01179)
