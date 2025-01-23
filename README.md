@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-231-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-252-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -18,7 +18,7 @@ Markdown format:
 ```
 
 ## News
-
+- **[2025-01]** :fire:We release a new paper on clinical-aware preference learning for Med-VLMs: "[MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization](https://arxiv.org/pdf/2412.06141)" and 🎉 [MMed-RAG](https://arxiv.org/abs/2410.13085) was accepted at ICLR'25!
 - **[2024-10]** :fire::fire:We release a new paper on using versatile multimodal RAG system for Med-VLMs: "[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085)".
 - **[2024-09]** 🎉🎉 [CARES](https://arxiv.org/abs/2406.06007) was accepted at NeurIPS'24, [RULE](https://arxiv.org/abs/2407.05131) was accepted at EMNLP'24 main conference! 
 - **[2024-07]** :fire::fire:We release a new paper on enhance the factuality of Med-VLMs with RAG: "[RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)".
@@ -47,6 +47,13 @@ Markdown format:
   title={MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models},
   author={Xia, Peng and Zhu, Kangyu and Li, Haoran and Wang, Tianze and Shi, Weijia and Wang, Sheng and Zhang, Linjun and Zou, James and Yao, Huaxiu},
   journal={arXiv preprint arXiv:2410.13085},
+  year={2024}
+}
+
+@article{zhu2024mmedpo,
+  title={MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization},
+  author={Zhu, Kangyu and Xia, Peng and Li, Yun and Zhu, Hongtu and Wang, Sheng and Yao, Huaxiu},
+  journal={arXiv preprint arXiv:2412.06141},
   year={2024}
 }
 ```
@@ -105,6 +112,7 @@ Markdown format:
 - [**arXiv 2023**] Medical Vision Language Pretraining: A survey [[pdf]](https://arxiv.org/pdf/2312.06224)
 - [**arXiv 2023**] CLIP in Medical Imaging: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2312.07353) [[code]](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging)
 - [**arXiv 2024**] Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review [[pdf]](https://arxiv.org/pdf/2403.02469) [[code]](https://github.com/lab-rasool/awesome-medical-vlms-and-datasets)
+- [**arXiv 2024**] A Survey of Medical Vision-and-Language Applications and Their Techniques [[pdf]](https://arxiv.org/pdf/2411.12195) [[code]](https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey)
 
 ---
 
@@ -306,8 +314,10 @@ Markdown format:
 - [**arXiv 2023**] ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training [[pdf]](https://arxiv.org/pdf/2312.13316) [[code]](https://github.com/ToniChopp/ECAMP)
 - [**Nature Medicine 2023**] A visual–language foundation model for pathology image analysis using medical Twitter [[pdf]](https://www.nature.com/articles/s41591-023-02504-3) [[code]](https://github.com/PathologyFoundation/plip)
 - [**PAKDD 2023**] Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis [[pdf]](https://arxiv.org/abs/2303.11224) [[code]](https://github.com/saiboxx/chexray-diffusion)
+
+
 ### 2024
-- [**CVPR 2024**] Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos [[pdf]](https://arxiv.org/pdf/2312.04746.pdf) [[code-demo]](https://quilt-llava.github.io/)
+- [**CVPR 2024**] **Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos** [[pdf]](https://arxiv.org/pdf/2312.04746.pdf) [[code]](https://quilt-llava.github.io/)
 - [**ICASSP 2024**] Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2401.01179)
 - [**arXiv 2024**] Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging [[pdf]](https://arxiv.org/pdf/2401.02565)
 - [**arXiv 2024**] Masked Contrastive Reconstruction for Cross-modal Medical Image-Report Retrieval [[pdf]](https://arxiv.org/pdf/2312.15840)
@@ -344,8 +354,7 @@ Markdown format:
 - [**MICCAI 2024**] CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting [[pdf]](https://arxiv.org/pdf/2407.04068) [[code]](https://github.com/Qinkaiyu/CLIP-DR)
 - [**arXiv 2024**] **PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding** [[pdf]](https://arxiv.org/pdf/2408.09530) [[code]](https://github.com/ddw2AIGROUP2CQUPT/PA-LLaVA)
 - [**arXiv 2024**] **LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning** [[pdf]](https://arxiv.org/pdf/2408.07981)
-- [**arXiv 2024**] GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI [[pdf]](https://arxiv.org/pdf/2408.03361) [[code]](https://uni-medical.github.io/GMAI-MMBench.github.io/)
-- [**arXiv 2024**] **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine** [[pdf]](https://arxiv.org/pdf/2408.02900) [[code]](https://yunfeixie233.github.io/MedTrinity-25M/)
+- [**NeurIPS 2024**] GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI [[pdf]](https://arxiv.org/pdf/2408.03361) [[code]](https://uni-medical.github.io/GMAI-MMBench.github.io/)
 - [**arXiv 2024**] VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge [[pdf]](https://www.arxiv.org/pdf/2408.02865) [[code]](https://github.com/HUANGLIZI/VisionUnite)
 - [**arXiv 2024**] GP-VLS: A general-purpose vision language model for surgery [[pdf]](https://arxiv.org/pdf/2407.19305) [[code]](https://gpvls-surgery-vlm.github.io/)
 - [**arXiv 2024**] Specialist vision-language models for clinical ophthalmology [[pdf]](https://arxiv.org/pdf/2407.08410)
@@ -357,13 +366,26 @@ Markdown format:
 - [**arXiv 2024**] **VividMed: Vision Language Model with Versatile Visual Grounding for Medicine** [[pdf]](https://arxiv.org/pdf/2410.12694) [[code]](https://github.com/function2-llx/MMMM)
 - [**arXiv 2024**] Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback [[pdf]](https://arxiv.org/pdf/2410.07025)
 - [**arXiv 2024**] MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation [[pdf]](https://arxiv.org/pdf/2409.19684)
-- [**arXiv 2024**] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2410.13085) [[code]](https://github.com/richard-peng-xia/MMed-RAG)
 - [**arXiv 2024**] Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks [[pdf]](https://arxiv.org/pdf/2410.18387) [[code]](https://github.com/xmed-lab/MedRegA)
 - [**arXiv 2024**] E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model [[pdf]](https://arxiv.org/pdf/2410.14200)
 - [**NeurIPS 2024**] BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays [[pdf]](https://arxiv.org/pdf/2410.21969) [[code]](https://github.com/yangzhou12/BenchX)
 - [**EMNLP 2024**] Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress? [[pdf]](https://arxiv.org/pdf/2411.04118) [[code]](https://github.com/taekb/eval-medical-dapt)
-- [**arXiv 2024**] **Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance** [[pdf]](https://arxiv.org/pdf/2410.16261) [[code]](https://github.com/OpenGVLab/InternVL)
 - [**arXiv 2024**] SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation [[pdf]](https://arxiv.org/pdf/2410.14948) [[code]](https://github.com/believewhat/SemiHVision)
+- [**arXiv 2024**] **Training Medical Large Vision-Language Models with Abnormal-Aware Feedback** [[pdf]](https://arxiv.org/pdf/2501.01377)
+- [**arXiv 2024**] **MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization** [[pdf]](https://arxiv.org/pdf/2412.06141) [[code]](https://github.com/aiming-lab/MMedPO)
+- [**arXiv 2024**] Semantic Consistency-Based Uncertainty Quantification for Factuality in Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2412.04606)
+- [**arXiv 2024**] **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge** [[pdf]](https://arxiv.org/pdf/2411.12915)
+- [**arXiv 2024**] **GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI** [[pdf]](https://arxiv.org/pdf/2411.14522) [[code]](https://github.com/uni-medical/GMAI-VL)
+- [**NeurIPS 2024**] Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement [[pdf]](https://arxiv.org/pdf/2411.09894) [[code]](https://github.com/HKU-MedAI/CATE)
+- [**arXiv 2024**] Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks [[pdf]](https://arxiv.org/pdf/2410.18387) [[code]](https://medrega.github.io/)
+
+
+### 2025
+- [**AAAI 2025**] Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine [[pdf]](https://arxiv.org/pdf/2412.09278) [[code]](https://github.com/ShawnHuang497/MedPLIB)
+- [**AAAI 2025**] KPL: Training-Free Medical Knowledge Mining of Vision-Language Models [[pdf]](https://arxiv.org/pdf/2501.11231) [[code]](https://github.com/JXLiu-AI/KPL)
+- [**ICLR 2025**] **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine** [[pdf]](https://arxiv.org/pdf/2408.02900) [[code]](https://yunfeixie233.github.io/MedTrinity-25M/)
+- [**ICLR 2025**] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2410.13085) [[code]](https://github.com/richard-peng-xia/MMed-RAG)
+
 
 ---
 
