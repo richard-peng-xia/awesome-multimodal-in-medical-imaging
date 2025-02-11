@@ -383,6 +383,7 @@ Markdown format:
 - [**AAAI 2025**] KPL: Training-Free Medical Knowledge Mining of Vision-Language Models [[pdf]](https://arxiv.org/pdf/2501.11231) [[code]](https://github.com/JXLiu-AI/KPL)
 - [**ICLR 2025**] **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine** [[pdf]](https://arxiv.org/pdf/2408.02900) [[code]](https://yunfeixie233.github.io/MedTrinity-25M/)
 - [**ICLR 2025**] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2410.13085) [[code]](https://github.com/richard-peng-xia/MMed-RAG)
+- [**arXiv 2025**] MedRAX: Medical Reasoning Agent for Chest X-ray [[pdf]](https://arxiv.org/pdf/2502.02673) [[code]](https://github.com/bowang-lab/MedRAX)
 
 
 ---
