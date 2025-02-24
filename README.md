@@ -28,11 +28,10 @@ Markdown format:
 ## Citation
 
 ```python
-@article{xia2024cares,
+@inproceedings{xiacares,
   title={CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models},
-  author={Xia, Peng and Chen, Ze and Tian, Juanxi and Gong, Yangrui and Hou, Ruibo and Xu, Yue and Wu, Zhenbang and Fan, Zhiyuan and Zhou, Yiyang and Zhu, Kangyu and others},
-  journal={arXiv preprint arXiv:2406.06007},
-  year={2024}
+  author={Xia, Peng and Chen, Ze and Tian, Juanxi and Yangrui, Gong and Hou, Ruibo and Xu, Yue and Wu, Zhenbang and Fan, Zhiyuan and Zhou, Yiyang and Zhu, Kangyu and others},
+  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
 }
 
 @inproceedings{xia2024rule,
@@ -384,6 +383,9 @@ Markdown format:
 - [**ICLR 2025**] **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine** [[pdf]](https://arxiv.org/pdf/2408.02900) [[code]](https://yunfeixie233.github.io/MedTrinity-25M/)
 - [**ICLR 2025**] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2410.13085) [[code]](https://github.com/richard-peng-xia/MMed-RAG)
 - [**arXiv 2025**] MedRAX: Medical Reasoning Agent for Chest X-ray [[pdf]](https://arxiv.org/pdf/2502.02673) [[code]](https://github.com/bowang-lab/MedRAX)
+- [**arXiv 2025**] MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression [[pdf]](https://arxiv.org/abs/2502.11651) [[code]](https://github.com/linjiemu/MMXU)
+- [**arXiv 2025**] PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation [[pdf]](https://arxiv.org/abs/2502.10536)
+- [**arXiv 2025**] **HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation** [[pdf]](https://arxiv.org/abs/2502.09838) [[code]](https://github.com/DCDmllm/HealthGPT)
 
 
 ---
