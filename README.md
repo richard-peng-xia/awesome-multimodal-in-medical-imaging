@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-252-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-255-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -307,6 +307,7 @@ Markdown format:
 - [**arXiv 2023**] ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training [[pdf]](https://arxiv.org/pdf/2312.13316) [[code]](https://github.com/ToniChopp/ECAMP)
 - [**Nature Medicine 2023**] A visual–language foundation model for pathology image analysis using medical Twitter [[pdf]](https://www.nature.com/articles/s41591-023-02504-3) [[code]](https://github.com/PathologyFoundation/plip)
 - [**PAKDD 2023**] Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis [[pdf]](https://arxiv.org/abs/2303.11224) [[code]](https://github.com/saiboxx/chexray-diffusion)
+- [**arXiv 2023**] Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures [[pdf]](https://arxiv.org/abs/2307.15220) [[code]](https://github.com/CAMMA-public/SurgVLP)
 
 
 ### 2024
@@ -338,6 +339,8 @@ Markdown format:
 - [**NeurIPS 2024**] **CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2406.06007) [[code]](https://github.com/richard-peng-xia/CARES)
 - [**MIDL 2024**] Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models [[pdf]](https://arxiv.org/pdf/2308.07706) [[code]](https://github.com/naamiinepal/medvlsm)
 - [**arXiv 2024**] Surgical-LVLM: Learning to Adapt Large Vision-Language Model for Grounded Visual Question Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2405.10948) [[code]](https://github.com/gkw0010/Surgical-LVLM)
+- [**MICCAI 2024**] HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition [[pdf]](https://arxiv.org/abs/2405.10075) [[code]](https://github.com/CAMMA-public/SurgVLP)
+- [**NeurIPS 2024**] Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation [[pdf]](https://arxiv.org/abs/2410.00263) [[code]](https://github.com/CAMMA-public/SurgVLP)
 - [**arXiv 2024**] **Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding** [[pdf]](https://arxiv.org/pdf/2405.19567) [[code]](https://github.com/AlaaLab/Dr-LLaVA)
 - [**arXiv 2024**] **Merlin: A Vision Language Foundation Model for 3D Computed Tomography** [[pdf]](https://arxiv.org/pdf/2406.06512) 
 - [**arXiv 2024**] **Advancing High Resolution Vision-Language Models in Biomedicine** [[pdf]](https://arxiv.org/pdf/2406.09454) [[code]](https://github.com/standardmodelbio/Llama3-Med)
