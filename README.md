@@ -375,7 +375,6 @@ Markdown format:
 - [**arXiv 2024**] **Training Medical Large Vision-Language Models with Abnormal-Aware Feedback** [[pdf]](https://arxiv.org/pdf/2501.01377)
 - [**arXiv 2024**] **MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization** [[pdf]](https://arxiv.org/pdf/2412.06141) [[code]](https://github.com/aiming-lab/MMedPO)
 - [**arXiv 2024**] Semantic Consistency-Based Uncertainty Quantification for Factuality in Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2412.04606)
-- [**arXiv 2024**] **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge** [[pdf]](https://arxiv.org/pdf/2411.12915)
 - [**arXiv 2024**] **GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI** [[pdf]](https://arxiv.org/pdf/2411.14522) [[code]](https://github.com/uni-medical/GMAI-VL)
 - [**NeurIPS 2024**] Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement [[pdf]](https://arxiv.org/pdf/2411.09894) [[code]](https://github.com/HKU-MedAI/CATE)
 - [**arXiv 2024**] Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks [[pdf]](https://arxiv.org/pdf/2410.18387) [[code]](https://medrega.github.io/)
@@ -401,6 +400,7 @@ Markdown format:
 - [**arXiv 2025**] Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[pdf]](https://arxiv.org/abs/2503.13939)
 - [**arXiv 2025**] MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[pdf]](https://arxiv.org/abs/2502.19634) [[code]](https://huggingface.co/JZPeterPan/MedVLM-R1)
 - [**arXiv 2025**] MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression [[pdf]](https://arxiv.org/abs/2502.11651) [[code]](https://github.com/linjiemu/MMXU)
+- [**CVPR 2025**] **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge** [[pdf]](https://arxiv.org/pdf/2411.12915) [[code]](https://github.com/Project-MONAI/VLM-Radiology-Agent-Framework)
 
 
 
