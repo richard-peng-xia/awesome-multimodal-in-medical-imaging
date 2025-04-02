@@ -28,10 +28,13 @@ Markdown format:
 ## Citation
 
 ```python
-@inproceedings{xiacares,
-  title={CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models},
-  author={Xia, Peng and Chen, Ze and Tian, Juanxi and Yangrui, Gong and Hou, Ruibo and Xu, Yue and Wu, Zhenbang and Fan, Zhiyuan and Zhou, Yiyang and Zhu, Kangyu and others},
-  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
+@article{xia2024cares,
+  title={Cares: A comprehensive benchmark of trustworthiness in medical vision language models},
+  author={Xia, Peng and Chen, Ze and Tian, Juanxi and Gong, Yangrui and Hou, Ruibo and Xu, Yue and Wu, Zhenbang and Fan, Zhiyuan and Zhou, Yiyang and Zhu, Kangyu and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={140334--140365},
+  year={2024}
 }
 
 @inproceedings{xia2024rule,
@@ -42,11 +45,10 @@ Markdown format:
   year={2024}
 }
 
-@article{xia2024mmed,
+@inproceedings{xia2025mmed,
   title={MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models},
   author={Xia, Peng and Zhu, Kangyu and Li, Haoran and Wang, Tianze and Shi, Weijia and Wang, Sheng and Zhang, Linjun and Zou, James and Yao, Huaxiu},
-  journal={arXiv preprint arXiv:2410.13085},
-  year={2024}
+  booktitle={The Thirteen International Conference on Learning Representations}
 }
 
 @article{zhu2024mmedpo,
@@ -84,6 +86,7 @@ Markdown format:
 |                        [Quilt-1M](https://quilt1m.github.io/)                        | histology |  1M   |  1M  | research papers<br>social media |    En    | 
 |     [Harvard-FairVLMed](https://ophai.hms.harvard.edu/datasets/harvard-fairvlmed10k) | fundus    |  10k  | 10K  |          medical reports        |    En    |
 |      [MedTrinity-25M](https://huggingface.co/datasets/UCSC-VLAA/MedTrinity-25M)      | multiple  | 25M   | 25M  | research papers<br>social media |    En    | 
+|     [Derm1M](https://arxiv.org/pdf/2503.14911)                                       | dermatology | 1M  | 403K | research papers<br>social media |    En    |
 
 ### Visual Question Answering Datasets
 
@@ -91,12 +94,14 @@ Markdown format:
 | :----------------------------------------------------------------------------------: | :-------: | :---: | :------: | :------: |
 |                   [VQA-RAD](https://osf.io/89kps/)                | radiology  |  315 |    3k  |    En    | 
 |                    [SLAKE](https://www.med-vqa.com/slake/)                       | radiology  | 642  |   14k   |    En/zh  | 
-|               [Path-VQA](https://github.com/UCSD-AI4H/PathVQA)              | histology  | 5k  |   32M   |    En    | 
+|               [Path-VQA](https://github.com/KaveeshaSilva/PathVQA)              | histology  | 5k  |   32M   |    En    | 
 |                [VQA-Med](https://github.com/abachaa/VQA-Med-2021)                    | radiology  | 4.5k  |   5.5k | En |
 |               [PMC-VQA](https://github.com/xiaoman-zhang/PMC-VQA) | multiple | 149k | 227k | En |
 |                [OmniMedVQA](https://github.com/OpenGVLab/Multi-Modality-Arena) | multiple | 118k | 128k | En |
 |              [ProbMed](https://github.com/eric-ai-lab/ProbMed) | radiology | 6k | 57k | En |
 |              [PubMedVision](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision) | multiple | 914k | 1.3M| En |
+|             [MMXU](https://github.com/linjiemu/MMXU) | radiology | 114k | 121k | En |
+
  
 
 ---
@@ -112,6 +117,8 @@ Markdown format:
 - [**arXiv 2023**] CLIP in Medical Imaging: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2312.07353) [[code]](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging)
 - [**arXiv 2024**] Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review [[pdf]](https://arxiv.org/pdf/2403.02469) [[code]](https://github.com/lab-rasool/awesome-medical-vlms-and-datasets)
 - [**arXiv 2024**] A Survey of Medical Vision-and-Language Applications and Their Techniques [[pdf]](https://arxiv.org/pdf/2411.12195) [[code]](https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey)
+- [**arXiv 2025**] Vision Language Models in Medicine [[pdf]](https://arxiv.org/abs/2503.01863)
+- [**arXiv 2025**] Applications of Large Models in Medicine [[pdf]](https://arxiv.org/abs/2502.17132)
 
 ---
 
@@ -389,6 +396,12 @@ Markdown format:
 - [**arXiv 2025**] MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression [[pdf]](https://arxiv.org/abs/2502.11651) [[code]](https://github.com/linjiemu/MMXU)
 - [**arXiv 2025**] PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation [[pdf]](https://arxiv.org/abs/2502.10536)
 - [**arXiv 2025**] **HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation** [[pdf]](https://arxiv.org/abs/2502.09838) [[code]](https://github.com/DCDmllm/HealthGPT)
+- [**arXiv 2025**] Derm1M: A Million-scale Vision-Language Dataset Aligned with Clinical Ontology Knowledge for Dermatology [[pdf]](https://arxiv.org/pdf/2503.14911)
+- [**arXiv 2025**] RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models [[pdf]](https://arxiv.org/abs/2503.15784)
+- [**arXiv 2025**] Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[pdf]](https://arxiv.org/abs/2503.13939)
+- [**arXiv 2025**] MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[pdf]](https://arxiv.org/abs/2502.19634) [[code]](https://huggingface.co/JZPeterPan/MedVLM-R1)
+- [**arXiv 2025**] MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression [[pdf]](https://arxiv.org/abs/2502.11651) [[code]](https://github.com/linjiemu/MMXU)
+
 
 
 ---
