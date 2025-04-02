@@ -86,7 +86,7 @@ Markdown format:
 |                        [Quilt-1M](https://quilt1m.github.io/)                        | histology |  1M   |  1M  | research papers<br>social media |    En    | 
 |     [Harvard-FairVLMed](https://ophai.hms.harvard.edu/datasets/harvard-fairvlmed10k) | fundus    |  10k  | 10K  |          medical reports        |    En    |
 |      [MedTrinity-25M](https://huggingface.co/datasets/UCSC-VLAA/MedTrinity-25M)      | multiple  | 25M   | 25M  | research papers<br>social media |    En    | 
-|     [Derm1M](https://arxiv.org/pdf/2503.14911)                                       | dermatology | 1M  | 403K | research papers<br>social media |    En    |
+|     [Derm1M](https://arxiv.org/pdf/2503.14911)                                       | dermatology | 403K  | 1M | research papers<br>social media |    En    |
 
 ### Visual Question Answering Datasets
 
