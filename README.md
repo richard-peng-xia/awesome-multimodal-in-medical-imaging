@@ -18,7 +18,7 @@ Markdown format:
 ```
 
 ## News
-- **[2025-05]**: 🎉🎉 [MMedPO] was accepted by ICML 2025!
+- **[2025-05]**: 🎉🎉 [MMedPO](https://arxiv.org/pdf/2412.06141) was accepted by ICML 2025!
 - **[2025-01]** :fire:We release a new paper on clinical-aware preference learning for Med-VLMs: "[MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization](https://arxiv.org/pdf/2412.06141)" and 🎉 [MMed-RAG](https://arxiv.org/abs/2410.13085) was accepted at ICLR'25!
 - **[2024-10]** :fire::fire:We release a new paper on using versatile multimodal RAG system for Med-VLMs: "[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085)".
 - **[2024-09]** 🎉🎉 [CARES](https://arxiv.org/abs/2406.06007) was accepted at NeurIPS'24, [RULE](https://arxiv.org/abs/2407.05131) was accepted at EMNLP'24 main conference! 
