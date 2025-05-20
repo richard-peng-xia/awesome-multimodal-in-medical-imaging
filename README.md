@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-255-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-262-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -18,6 +18,7 @@ Markdown format:
 ```
 
 ## News
+- **[2025-05]**: 🎉🎉 [MMedPO] was accepted by ICML 2025!
 - **[2025-01]** :fire:We release a new paper on clinical-aware preference learning for Med-VLMs: "[MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization](https://arxiv.org/pdf/2412.06141)" and 🎉 [MMed-RAG](https://arxiv.org/abs/2410.13085) was accepted at ICLR'25!
 - **[2024-10]** :fire::fire:We release a new paper on using versatile multimodal RAG system for Med-VLMs: "[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085)".
 - **[2024-09]** 🎉🎉 [CARES](https://arxiv.org/abs/2406.06007) was accepted at NeurIPS'24, [RULE](https://arxiv.org/abs/2407.05131) was accepted at EMNLP'24 main conference! 
@@ -51,11 +52,11 @@ Markdown format:
   booktitle={The Thirteen International Conference on Learning Representations}
 }
 
-@article{zhu2024mmedpo,
+@article{zhu2025mmedpo,
   title={MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization},
   author={Zhu, Kangyu and Xia, Peng and Li, Yun and Zhu, Hongtu and Wang, Sheng and Yao, Huaxiu},
-  journal={arXiv preprint arXiv:2412.06141},
-  year={2024}
+  journal={Forty-Second International Conference on Machine Learning},
+  year={2025}
 }
 ```
 
@@ -401,10 +402,31 @@ Markdown format:
 - [**arXiv 2025**] MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[pdf]](https://arxiv.org/abs/2502.19634) [[code]](https://huggingface.co/JZPeterPan/MedVLM-R1)
 - [**arXiv 2025**] MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression [[pdf]](https://arxiv.org/abs/2502.11651) [[code]](https://github.com/linjiemu/MMXU)
 - [**CVPR 2025**] **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge** [[pdf]](https://arxiv.org/pdf/2411.12915) [[code]](https://github.com/Project-MONAI/VLM-Radiology-Agent-Framework)
-
+- [**arXiv 2025**] **Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner** [[pdf]](https://arxiv.org/abs/2505.11404) [[code]](https://github.com/Wenchuan-Zhang/Patho-R1)
+- [**arXiv 2025**] Describe Anything in Medical Images [[pdf]](https://arxiv.org/abs/2505.05804)
+- [**arXiv 2025**] Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant [[pdf]](https://arxiv.org/abs/2505.03380) [[code]](https://github.com/xmed-lab/RCMed)
+- [**arXiv 2025**] Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[pdf]](https://arxiv.org/abs/2504.18453)
+- [**arXiv 2025**] How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos? [[pdf]](https://arxiv.org/abs/2504.14391) [[code]](https://github.com/zou-group/OpenBiomedVid)
+- [**arXiv 2025**] EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model [[pdf]](https://arxiv.org/abs/2504.13650) [[code]](https://github.com/DCDmllm/EyecareGPT)
+- [**arXiv 2025**] PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks [[pdf]](https://arxiv.org/abs/2504.09258)
 
 
 ---
+
+## 📖 Citation
+
+If you find this repository useful, please consider citing this list:
+
+
+```bibtex
+@misc{xia2023awesome,
+    title = {Awesome-Multimodal-in-Medical-Imaging},
+    author = {Peng Xia},
+    journal = {GitHub repository},
+    url = {https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging},
+    year = {2023},
+}
+```
 
 ## 🎉 Contribution
 
