@@ -28,7 +28,7 @@ Markdown format:
 
 ## Citation
 
-```python
+```bibtex
 @article{xia2024cares,
   title={Cares: A comprehensive benchmark of trustworthiness in medical vision language models},
   author={Xia, Peng and Chen, Ze and Tian, Juanxi and Gong, Yangrui and Hou, Ruibo and Xu, Yue and Wu, Zhenbang and Fan, Zhiyuan and Zhou, Yiyang and Zhu, Kangyu and others},
