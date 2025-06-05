@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-267-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-269-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -415,12 +415,14 @@ Markdown format:
 - [**arXiv 2025**] Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[pdf]](https://arxiv.org/abs/2504.18453)
 - [**arXiv 2025**] How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos? [[pdf]](https://arxiv.org/abs/2504.14391) [[code]](https://github.com/zou-group/OpenBiomedVid)
 - [**arXiv 2025**] EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model [[pdf]](https://arxiv.org/abs/2504.13650) [[code]](https://github.com/DCDmllm/EyecareGPT)
+- [**arXiv 2025**] **AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation** [[pdf]](https://arxiv.org/pdf/2505.02830) [[code]](https://github.com/Liqq1/AOR)
 - [**arXiv 2025**] **PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks** [[pdf]](https://arxiv.org/abs/2504.09258)
 - [**arXiv 2025**] **QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training** [[pdf]](https://arxiv.org/pdf/2506.00711)
 - [**arXiv 2025**] HSCR: Hierarchical Self-Contrastive Rewarding for Aligning Medical Vision Language Models [[pdf]](https://arxiv.org/pdf/2506.00805) [[code]](https://github.com/jiangsongtao/HSCR)
 - [**arXiv 2025**] **MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning** [[pdf]](https://arxiv.org/pdf/2506.00555)
 - [**arXiv 2025**] Medical Large Vision Language Models with Multi-Image Visual Ability [[pdf]](https://arxiv.org/pdf/2505.19031) [[code]](https://github.com/Xikai97/Med-MIM)
 - [**arXiv 2025**] Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning [[pdf]](https://arxiv.org/pdf/2505.18503) [[code]](https://github.com/Aofei-Chang/A3Tune)
+- [**arXiv 2025**] Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning [[pdf]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
 
 
 ---
