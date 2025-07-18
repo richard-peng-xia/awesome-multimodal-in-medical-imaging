@@ -254,13 +254,16 @@ Markdown format:
 
 
 ### 2024
-- [**arXiv 2024**] MedPromptX: Grounded Multimodal Prompting for Chest X-ray Diagnosis [[pdf]](https://arxiv.org/pdf/2403.15585.pdf) [[code]](https://github.com/BioMedIA-MBZUAI/MedPromptX)
+- [**MICCAI@ML-CDS 2024**] MedPromptX: Grounded Multimodal Prompting for Chest X-ray Diagnosis [[pdf]](https://arxiv.org/pdf/2403.15585.pdf) [[code]](https://github.com/BioMedIA-MBZUAI/MedPromptX)
 - [**arXiv 2024**] PeFoMed: Parameter Efficient Fine-tuning on Multimodal Large Language Models for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2401.02797) [[code]](https://github.com/jinlHe/PeFoMed)
 - [**ICASSP 2024**] Prompt-based Personalized Federated Learning for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2402.09677)
 - [**arXiv 2024**] RJUA-MedDQA: A Multimodal Benchmark for Medical Document Question Answering and Clinical Reasoning [[pdf]](https://arxiv.org/pdf/2402.14840)
 - [**arXiv 2024**] Design as Desired: Utilizing Visual Question Answering for Multimodal Pre-training [[pdf]](https://arxiv.org/pdf/2404.00226)
 - [**arXiv 2024**] Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA [[pdf]](https://arxiv.org/pdf/2405.20421) [[code]](https://github.com/eric-ai-lab/ProbMed)
 - [**IF 2024**] Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2408.04958) [[code]](https://github.com/longbai1006/Surgical-VQLAPlus)
+
+### 2025
+- [**MICCAI 2025**] MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering [[pdf]](https://www.arxiv.org/abs/2506.22900) [[code]](https://github.com/BioMedIA-MBZUAI/MOTOR)
 
 ---
 
