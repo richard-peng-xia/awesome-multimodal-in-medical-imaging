@@ -426,6 +426,8 @@ Markdown format:
 - [**arXiv 2025**] Medical Large Vision Language Models with Multi-Image Visual Ability [[pdf]](https://arxiv.org/pdf/2505.19031) [[code]](https://github.com/Xikai97/Med-MIM)
 - [**arXiv 2025**] Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning [[pdf]](https://arxiv.org/pdf/2505.18503) [[code]](https://github.com/Aofei-Chang/A3Tune)
 - [**arXiv 2025**] Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning [[pdf]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
+- [**arXiv 2025**] LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding [[pdf]](https://www.arxiv.org/pdf/2508.01617) [[code]](https://github.com/LLM-VLM-GSL/LLaDA-MedV)
+
 
 
 ---
