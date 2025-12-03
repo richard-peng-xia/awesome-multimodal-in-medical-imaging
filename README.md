@@ -264,7 +264,7 @@ Markdown format:
 
 ### 2025
 - [**MICCAI 2025**] MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering [[pdf]](https://www.arxiv.org/abs/2506.22900) [[code]](https://github.com/BioMedIA-MBZUAI/MOTOR)
-
+- [**NeurIPS 2025**] Exgra-med: Extended context graph alignment for medical vision-language models [[pdf]](https://openreview.net/pdf?id=TjWdyVWBAG) [[code]](https://github.com/duyhominhnguyen/Exgra-Med)
 ---
 
 ## Medical Vision-Language Model ![](https://img.shields.io/badge/Medical_Vision_Language_Model-blue)
