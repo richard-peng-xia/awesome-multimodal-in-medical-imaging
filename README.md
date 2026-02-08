@@ -61,10 +61,10 @@ Markdown format:
   year={2025}
 }
 
-@article{xia2025mmedagent,
+@article{xia2026mmedagent,
   title={MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning},
-  author={Xia, Peng and Wang, Jinglu and Peng, Yibo and Zeng, Kaide and Wu, Xian and Tang, Xiangru and Zhu, Hongtu and Li, Yun and Liu, Shujie and Lu, Yan and Yao, Huaxiu},
-  booktitle={The Thirteen International Conference on Learning Representations},
+  author={Xia, Peng and Wang, Jinglu and Peng, Yibo and Zeng, Kaide and Dong, Zihan and Wu, Xian and Tang, Xiangru and Zhu, Hongtu and Li, Yun and Zhang, Linjun and Liu, Shujie and Lu, Yan and Yao, Huaxiu},
+  booktitle={The Fourteen International Conference on Learning Representations},
   year={2026}
 }
 ```
