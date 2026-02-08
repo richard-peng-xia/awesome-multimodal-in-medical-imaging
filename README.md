@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-multimodal-in-medical-imaging?color=green)
-![](https://img.shields.io/badge/PaperNumber-269-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-273-brightgreen)
 
 # Awesome-Multimodal-Applications-In-Medical-Imaging
 
@@ -18,6 +18,7 @@ Markdown format:
 ```
 
 ## News
+- **[2026-02]** 🎉🎉 [MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/abs/2506.00555)" was accepted by ICLR 2026!
 - **[2025-05]** 🎉🎉 [MMedPO](https://arxiv.org/pdf/2412.06141) was accepted by ICML 2025 and :fire:we release a new paper on agent tuning for Med-VLMs: "[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/abs/2506.00555)"!
 - **[2025-01]** :fire:We release a new paper on clinical-aware preference learning for Med-VLMs: "[MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization](https://arxiv.org/pdf/2412.06141)" and 🎉 [MMed-RAG](https://arxiv.org/abs/2410.13085) was accepted at ICLR'25!
 - **[2024-10]** :fire::fire:We release a new paper on using versatile multimodal RAG system for Med-VLMs: "[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085)".
@@ -49,7 +50,8 @@ Markdown format:
 @inproceedings{xia2025mmed,
   title={MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models},
   author={Xia, Peng and Zhu, Kangyu and Li, Haoran and Wang, Tianze and Shi, Weijia and Wang, Sheng and Zhang, Linjun and Zou, James and Yao, Huaxiu},
-  booktitle={The Thirteen International Conference on Learning Representations}
+  booktitle={The Thirteen International Conference on Learning Representations},
+  year={2025}
 }
 
 @article{zhu2025mmedpo,
@@ -62,8 +64,8 @@ Markdown format:
 @article{xia2025mmedagent,
   title={MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning},
   author={Xia, Peng and Wang, Jinglu and Peng, Yibo and Zeng, Kaide and Wu, Xian and Tang, Xiangru and Zhu, Hongtu and Li, Yun and Liu, Shujie and Lu, Yan and Yao, Huaxiu},
-  journal={arXiv preprint arXiv:2506.00555},
-  year={2025}
+  booktitle={The Thirteen International Conference on Learning Representations},
+  year={2026}
 }
 ```
 
@@ -402,31 +404,35 @@ Markdown format:
 - [**ICLR 2025**] **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine** [[pdf]](https://arxiv.org/pdf/2408.02900) [[code]](https://yunfeixie233.github.io/MedTrinity-25M/)
 - [**ICLR 2025**] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2410.13085) [[code]](https://github.com/richard-peng-xia/MMed-RAG)
 - [**arXiv 2025**] MedRAX: Medical Reasoning Agent for Chest X-ray [[pdf]](https://arxiv.org/pdf/2502.02673) [[code]](https://github.com/bowang-lab/MedRAX)
-- [**arXiv 2025**] MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression [[pdf]](https://arxiv.org/abs/2502.11651) [[code]](https://github.com/linjiemu/MMXU)
-- [**arXiv 2025**] PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation [[pdf]](https://arxiv.org/abs/2502.10536)
-- [**arXiv 2025**] **HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation** [[pdf]](https://arxiv.org/abs/2502.09838) [[code]](https://github.com/DCDmllm/HealthGPT)
-- [**arXiv 2025**] Derm1M: A Million-scale Vision-Language Dataset Aligned with Clinical Ontology Knowledge for Dermatology [[pdf]](https://arxiv.org/pdf/2503.14911)
-- [**arXiv 2025**] RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models [[pdf]](https://arxiv.org/abs/2503.15784)
+- [**ICML 2025**] **HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation** [[pdf]](https://arxiv.org/abs/2502.09838) [[code]](https://github.com/DCDmllm/HealthGPT)
+- [**ICCV 2025**] Derm1M: A Million-scale Vision-Language Dataset Aligned with Clinical Ontology Knowledge for Dermatology [[pdf]](https://arxiv.org/pdf/2503.14911)
+- [**MICCAI 2025**] RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models [[pdf]](https://arxiv.org/abs/2503.15784)
 - [**ICML 2025**] **MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization** [[pdf]](https://arxiv.org/pdf/2412.06141) [[code]](https://github.com/aiming-lab/MMedPO)
 - [**arXiv 2025**] Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[pdf]](https://arxiv.org/abs/2503.13939)
-- [**arXiv 2025**] MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[pdf]](https://arxiv.org/abs/2502.19634) [[code]](https://huggingface.co/JZPeterPan/MedVLM-R1)
-- [**arXiv 2025**] MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression [[pdf]](https://arxiv.org/abs/2502.11651) [[code]](https://github.com/linjiemu/MMXU)
+- [**MICCAI 2025**] MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[pdf]](https://arxiv.org/abs/2502.19634) [[code]](https://huggingface.co/JZPeterPan/MedVLM-R1)
+- [**ACL 2025 Findings**] MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression [[pdf]](https://arxiv.org/abs/2502.11651) [[code]](https://github.com/linjiemu/MMXU)
 - [**CVPR 2025**] **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge** [[pdf]](https://arxiv.org/pdf/2411.12915) [[code]](https://github.com/Project-MONAI/VLM-Radiology-Agent-Framework)
 - [**arXiv 2025**] **Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner** [[pdf]](https://arxiv.org/abs/2505.11404) [[code]](https://github.com/Wenchuan-Zhang/Patho-R1)
 - [**arXiv 2025**] Describe Anything in Medical Images [[pdf]](https://arxiv.org/abs/2505.05804)
 - [**arXiv 2025**] Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant [[pdf]](https://arxiv.org/abs/2505.03380) [[code]](https://github.com/xmed-lab/RCMed)
-- [**arXiv 2025**] Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[pdf]](https://arxiv.org/abs/2504.18453)
+- [**MIA 2025**] Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[pdf]](https://arxiv.org/abs/2504.18453)
 - [**arXiv 2025**] How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos? [[pdf]](https://arxiv.org/abs/2504.14391) [[code]](https://github.com/zou-group/OpenBiomedVid)
-- [**arXiv 2025**] EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model [[pdf]](https://arxiv.org/abs/2504.13650) [[code]](https://github.com/DCDmllm/EyecareGPT)
-- [**arXiv 2025**] **AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation** [[pdf]](https://arxiv.org/pdf/2505.02830) [[code]](https://github.com/Liqq1/AOR)
+- [**ACM MM 2025**] EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model [[pdf]](https://arxiv.org/abs/2504.13650) [[code]](https://github.com/DCDmllm/EyecareGPT)
+- [**NeurIPS 2025**] **AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation** [[pdf]](https://arxiv.org/pdf/2505.02830) [[code]](https://github.com/Liqq1/AOR)
 - [**arXiv 2025**] **PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks** [[pdf]](https://arxiv.org/abs/2504.09258)
-- [**arXiv 2025**] **QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training** [[pdf]](https://arxiv.org/pdf/2506.00711)
+- [**NeurIPS 202**] **QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training** [[pdf]](https://arxiv.org/pdf/2506.00711)
 - [**arXiv 2025**] HSCR: Hierarchical Self-Contrastive Rewarding for Aligning Medical Vision Language Models [[pdf]](https://arxiv.org/pdf/2506.00805) [[code]](https://github.com/jiangsongtao/HSCR)
-- [**arXiv 2025**] **MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning** [[pdf]](https://arxiv.org/pdf/2506.00555)
-- [**arXiv 2025**] Medical Large Vision Language Models with Multi-Image Visual Ability [[pdf]](https://arxiv.org/pdf/2505.19031) [[code]](https://github.com/Xikai97/Med-MIM)
-- [**arXiv 2025**] Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning [[pdf]](https://arxiv.org/pdf/2505.18503) [[code]](https://github.com/Aofei-Chang/A3Tune)
-- [**arXiv 2025**] Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning [[pdf]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
+- [**MICCAI 2025**] Medical Large Vision Language Models with Multi-Image Visual Ability [[pdf]](https://arxiv.org/pdf/2505.19031) [[code]](https://github.com/Xikai97/Med-MIM)
+- [**ACL 2025**] Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning [[pdf]](https://arxiv.org/pdf/2505.18503) [[code]](https://github.com/Aofei-Chang/A3Tune)
+- [**ICCV 2025**] Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning [[pdf]](https://arxiv.org/pdf/2506.02327) [[code]](https://github.com/scott-yjyang/MeWM)
 - [**arXiv 2025**] LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding [[pdf]](https://www.arxiv.org/pdf/2508.01617) [[code]](https://github.com/LLM-VLM-GSL/LLaDA-MedV)
+
+### 2026
+- [**ICLR 2026**] **MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning** [[pdf]](https://arxiv.org/pdf/2506.00555)
+- [**ICLR 2026**] M3CoTBench: Benchmark Chain-of-Thought of MLLMs in Medical Image Understanding [[pdf]](https://arxiv.org/abs/2601.08758) [[code]](https://github.com/juntaoJianggavin/M3CoTBench)
+- [**ICLR 2026**] **MedVLSynther: Synthesizing High-Quality Visual Question Answering from Medical Documents with Generator-Verifier LMMs** [[pdf]](https://arxiv.org/abs/2510.25867) [[code]](https://github.com/UCSC-VLAA/MedVLSynther)
+- [**EACL 2026 Findings**] Benchmarking Direct Preference Optimization for Medical Large Vision-Language Models [[pdf]](https://arxiv.org/abs/2601.17918) [[code]](https://github.com/dmis-lab/med-vlm-dpo)
+- [**arXiv 2026**] MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning [[pdf]](https://arxiv.org/abs/2602.03320) [[code]](https://github.com/CUHK-AIM-Group/MedSAM-Agent)
 
 
 
