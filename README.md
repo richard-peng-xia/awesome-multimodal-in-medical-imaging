@@ -129,6 +129,7 @@ Markdown format:
 - [**arXiv 2024**] A Survey of Medical Vision-and-Language Applications and Their Techniques [[pdf]](https://arxiv.org/pdf/2411.12195) [[code]](https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey)
 - [**arXiv 2025**] Vision Language Models in Medicine [[pdf]](https://arxiv.org/abs/2503.01863)
 - [**arXiv 2025**] Applications of Large Models in Medicine [[pdf]](https://arxiv.org/abs/2502.17132)
+- [**arXiv 2025**] A Comprehensive Survey of AI Agents in Healthcare [[pdf]](https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-agentic-ai-in-healthcare) [[code]](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)
 
 ---
 
