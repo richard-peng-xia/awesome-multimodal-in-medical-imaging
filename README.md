@@ -490,4 +490,4 @@ If you find this repository useful, please consider citing this list:
   <img src="https://contrib.rocks/image?repo=richard-peng-xia/awesome-multimodal-in-medical-imaging" />
 </a>
 
-[![✨Star History Chart](https://api.star-history.com/svg?repos=richard-peng-xia/awesome-multimodal-in-medical-imaging&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+[![✨Star History Chart](https://star-history.dera.page/svg?repos=richard-peng-xia/awesome-multimodal-in-medical-imaging&type=Date)](https://star-history.dera.page/#bytebase/star-history&Date)
