@@ -222,6 +222,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 ### 2024
 - [**ICASSP 2024**] Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning [[pdf]](https://arxiv.org/pdf/2311.01004) [[code]](https://github.com/AHandsomePython/MSMedCap)
 - [**AAAI 2024**] PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2308.12604) [[code]](https://github.com/jhb86253817/promptmrg)
+- [**AAAI 2024**] Bootstrapping Large Language Models for Radiology Report Generation [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29826) [[code]](https://github.com/synlp/R2-LLM)
 - [**WACV 2024**] Complex Organ Mask Guided Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2311.02329) [[code]](https://github.com/GaryGuTC/COMG_model)
 - [**TMM 2024**] From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[pdf]](https://ieeexplore.ieee.org/document/10356722)
 - [**TMI 2024**] SGT++: Improved Scene Graph-guided Transformer for Surgical Report Generation [[pdf]](https://ieeexplore.ieee.org/document/10330637/)
@@ -233,6 +234,10 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**arXiv 2024**] TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models [[pdf]](https://arxiv.org/pdf/2408.12141)
 
 ---
+
+### 2026
+- [**NeurIPS 2026**] Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning
+- [**AAAI 2026**] S2D-Align: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2511.11066)
 
 ## Medical Visual Question Answering ![](https://img.shields.io/badge/Medical_Visual_Question_Answering-red)
 
