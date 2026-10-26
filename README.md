@@ -467,6 +467,7 @@ Cross-modal models that predict or analyze spatial transcriptomics jointly with 
 ### 2026
 - [**medRxiv 2026**] **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology** [[pdf]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) [[code]](https://github.com/ratschlab/DeepSpotM)
 - [**Bioinformatics 2026**] **AESTETIK: AutoEncoder for Spatial Transcriptomics Expression with Topology and Image Knowledge** [[pdf]](https://doi.org/10.1093/bioinformatics/btag316) [[code]](https://github.com/ratschlab/aestetik)
+- [**arXiv 2026**] **VOICE: A Vision-Omics Foundation Model Integrating Direct and Retrieval-Based Prediction of In-situ Single-Cell Gene Expression** [[pdf]](https://arxiv.org/abs/2608.08366) [[code]](https://github.com/Luosanj/VOICE_HE_ST_Pred)
 
 ## 📖 Citation
 
