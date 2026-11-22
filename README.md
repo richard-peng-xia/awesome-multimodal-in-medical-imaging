@@ -106,6 +106,8 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 | :----------------------------------------------------------------------------------: | :-------: | :---: | :--------------: | :-----------------------------: | :------: | 
 | [TCGA virtual ST atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) | histology | 28.7k slides | 19k genes / 295.3M spots | TCGA H&E + DeepSpot-M virtual ST [[paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)] | En |
 | [HEST Xenium virtual ST](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) | histology | 59 samples | 19k genes / ~13.3M cells | HEST-1k Xenium + DeepSpot-M virtual ST [[paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)] | En |
+| [KPMP virtual ST atlas](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas) | histology | 1,534 slides | 19k genes / ~5.46M spots | KPMP kidney biopsy H&E + DeepSpot-M virtual ST [[paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)] | En |
+| [KPMP Xenium virtual ST](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics) | histology | 49 sections | 19k genes / ~1.64M cells | KPMP Xenium kidney H&E + DeepSpot-M virtual ST [[paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)] | En |
 
 ### Visual Question Answering Datasets
 
@@ -466,6 +468,7 @@ Cross-modal models that predict or analyze spatial transcriptomics jointly with 
 
 ### 2026
 - [**medRxiv 2026**] **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology** [[pdf]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) [[code]](https://github.com/ratschlab/DeepSpotM)
+- [**medRxiv 2026**] **Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs** [[pdf]](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1) [[code]](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis)
 - [**Bioinformatics 2026**] **AESTETIK: AutoEncoder for Spatial Transcriptomics Expression with Topology and Image Knowledge** [[pdf]](https://doi.org/10.1093/bioinformatics/btag316) [[code]](https://github.com/ratschlab/aestetik)
 - [**arXiv 2026**] **VOICE: A Vision-Omics Foundation Model Integrating Direct and Retrieval-Based Prediction of In-situ Single-Cell Gene Expression** [[pdf]](https://arxiv.org/abs/2608.08366) [[code]](https://github.com/Luosanj/VOICE_HE_ST_Pred)
 
