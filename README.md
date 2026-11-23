@@ -119,7 +119,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 |                [VQA-Med](https://github.com/abachaa/VQA-Med-2021)                    | radiology  | 4.5k  |   5.5k | En |
 |               [PMC-VQA](https://github.com/xiaoman-zhang/PMC-VQA) | multiple | 149k | 227k | En |
 |                [OmniMedVQA](https://github.com/OpenGVLab/Multi-Modality-Arena) | multiple | 118k | 128k | En |
-|              [ProbMed](https://github.com/eric-ai-lab/ProbMed) | radiology | 6k | 57k | En |
+|              [ProbMed](https://github.com/UCSB-AI/ProbMed) | radiology | 6k | 57k | En |
 |              [PubMedVision](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision) | multiple | 914k | 1.3M| En |
 |             [MMXU](https://github.com/linjiemu/MMXU) | radiology | 114k | 121k | En |
 
@@ -194,13 +194,13 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**CVPR 2023**] KiUT: Knowledge-Injected U-Transformer for Radiology Report Generation [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.pdf)
 - [**CVPR 2023**] Interactive and Explainable Region-guided Radiology Report Generation [[pdf]](https://arxiv.org/abs/2304.08295) [[code]](https://github.com/ttanida/rgrg)
 - [**MIDL 2023**] Multimodal Image-Text Matching Improves Retrieval-based Chest X-Ray Report Generation [[pdf]](https://arxiv.org/pdf/2303.17579) [[code]](https://github.com/rajpurkarlab/X-REM)
-- [**arXiv 2023**] Visual-Linguistic Causal Intervention for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2303.09117) [[code]](https://github.com/WissingChen/VLCI)
+- [**arXiv 2023**] Visual-Linguistic Causal Intervention for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2303.09117) [[code]](https://github.com/WissingChen/CMCRL)
 - [**MIDL 2023**] Vision-Language Modelling For Radiological Imaging and Reports In The Low Data Regime [[pdf]](https://arxiv.org/pdf/2303.17644)
-- [**arXiv 2023**] Cross-Modal Causal Intervention for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2303.09117) [[code]](https://github.com/WissingChen/VLCI)
+- [**arXiv 2023**] Cross-Modal Causal Intervention for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2303.09117) [[code]](https://github.com/WissingChen/CMCRL)
 - [**ICASSP 2023**] MvCo-DoT:Multi-View Contrastive Domain Transfer Network for Medical Report Generation [[pdf]](https://arxiv.org/pdf/2304.07465.pdf)
 - [**CHIL 2023**] Token Imbalance Adaptation for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2304.09185) [[code]](https://github.com/woqingdoua/TIMER)
 - [**AAAI 2023**] "Nothing Abnormal": Disambiguating Medical Reports via Contrastive Knowledge Infusion [[pdf]](https://arxiv.org/pdf/2305.08300) [[code]](https://github.com/ZexueHe/Med-DEPEN)
-- [**arXiv 2023**] S4M: Generating Radiology Reports by A Single Model for Multiple Body Parts [[pdf]](https://arxiv.org/pdf/2305.16685) [[code]](https://github.com/YtongXie/S4M)
+- [**arXiv 2023**] S4M: Generating Radiology Reports by A Single Model for Multiple Body Parts [[pdf]](https://arxiv.org/pdf/2305.16685) [[code]](https://github.com/YtongXie/X-RGen)
 - [**CVPR 2023**] KiUT: Knowledge-injected U-Transformer for Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2306.11345)
 - [**ACL 2023**] Replace and Report: NLP Assisted Radiology Report Generation [[pdf]](https://arxiv.org/pdf/2306.17180)
 - [**ICCV 2023**] PRIOR: Prototype Representation Joint Learning from Medical Images and Reports [[pdf]](https://arxiv.org/pdf/2307.12577) [[code]](https://github.com/QtacierP/PRIOR)
@@ -254,7 +254,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**ECCV 2022**] Distilled Dual-Encoder Model for Vision-Language Understanding [[pdf]](https://arxiv.org/pdf/2112.08723) [[code]](https://github.com/yzd-v/MGD)
 - [**arXiv 2022**] UnICLAM:Contrastive Representation Learning with Adversarial Masking for Unified and Interpretable Medical Vision Question Answering [[pdf]](https://arxiv.org/pdf/2212.10729)
 ### 2023
-- [**TMI 2023**] A Dual-Attention Learning Network with Word and Sentence Embedding for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2210.00220) [[code]](https://github.com/coisini-glenda/wsdan-for-medical-visual-question-answering)
+- [**TMI 2023**] A Dual-Attention Learning Network with Word and Sentence Embedding for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2210.00220) [[code]](https://github.com/Coisini-Glenda/WSDAN)
 - [**ISBI 2023**] MF2-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2211.05991)
 - [**ISBI 2023**] Self-supervised vision-language pretraining for Medical visual question answering [[pdf]](https://arxiv.org/pdf/2211.13594) [[code]](https://github.com/pengfeiliHEU/M2I2)
 - [**arXiv 2023**] Interpretable Medical Image Visual Question Answering via Multi-Modal Relationship Graph Learning [[pdf]](https://arxiv.org/pdf/2302.09636)
@@ -278,7 +278,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**ICASSP 2024**] Prompt-based Personalized Federated Learning for Medical Visual Question Answering [[pdf]](https://arxiv.org/pdf/2402.09677)
 - [**arXiv 2024**] RJUA-MedDQA: A Multimodal Benchmark for Medical Document Question Answering and Clinical Reasoning [[pdf]](https://arxiv.org/pdf/2402.14840)
 - [**arXiv 2024**] Design as Desired: Utilizing Visual Question Answering for Multimodal Pre-training [[pdf]](https://arxiv.org/pdf/2404.00226)
-- [**arXiv 2024**] Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA [[pdf]](https://arxiv.org/pdf/2405.20421) [[code]](https://github.com/eric-ai-lab/ProbMed)
+- [**arXiv 2024**] Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA [[pdf]](https://arxiv.org/pdf/2405.20421) [[code]](https://github.com/UCSB-AI/ProbMed)
 - [**IF 2024**] Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2408.04958) [[code]](https://github.com/longbai1006/Surgical-VQLAPlus)
 
 ### 2025
@@ -299,7 +299,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**arXiv 2022**] RoentGen: Vision-Language Foundation Model for Chest X-ray Generation [[pdf]](https://arxiv.org/pdf/2211.12737)
 - [**ECCV 2022**] Making the most of text semantics to improve biomedical vision–language processing [[pdf]](https://arxiv.org/pdf/2204.09817)
 - [**MICCAI 2022**] RepsNet: Combining Vision with Language for Automated Medical Reports [[pdf]](https://arxiv.org/pdf/2209.13171) [[code]](https://sites.google.com/view/repsnet)
-- [**NeurIPS 2022**] Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2210.06044) [[code]](https://github.com/fuying-wang/MGCA)
+- [**NeurIPS 2022**] Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2210.06044) [[code]](https://github.com/HKU-MedAI/MGCA)
 - [**MICCAI 2022**] Berthop: An effective vision-and-language model for chest x-ray disease diagnosis [[pdf]](https://arxiv.org/pdf/2108.04938)
 ### 2023
 - [**TMI 2023**] LViT: Language meets Vision Transformer in Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2206.14718) [[code]](https://github.com/HUANGLIZI/LViT)
@@ -323,7 +323,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**MICCAI 2023**] M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization [[pdf]](https://arxiv.org/pdf/2307.08347) [[code]](https://github.com/cheliu-computation/m-flag-miccai2023)
 - [**MICCAI 2023**] Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training [[pdf]](https://arxiv.org/pdf/2307.07246) [[code]](https://github.com/ChenXiaoFei-CS/KoBo)
 - [**MICCAI 2023**] Unified Medical Image-Text-Label Contrastive Learning With Continuous Prompt [[pdf]](https://arxiv.org/pdf/2307.05920)
-- [**arXiv 2023**] Few-shot medical image classification with simple shape and texture text descriptors using vision-language models [[pdf]](https://arxiv.org/pdf/2308.04005) [[code]](https://github.com/BrainImageAnalysis/FSC-CLIP-GPT)
+- [**arXiv 2023**] Few-shot medical image classification with simple shape and texture text descriptors using vision-language models [[pdf]](https://arxiv.org/pdf/2308.04005)
 - [**ICMLW 2023**] **Med-Flamingo: a Multimodal Medical Few-shot Learner** [[pdf]](https://arxiv.org/pdf/2307.15189) [[code]](https://github.com/snap-stanford/med-flamingo)
 - [**MICCAI 2023**] Ariadne's Thread: Using Text Prompts to Improve Segmentation of Infected Areas from Chest X-ray images [[pdf]](https://arxiv.org/pdf/2307.03942) [[code]](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023)
 - [**arXiv 2023**] A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision [[pdf]](https://arxiv.org/pdf/2308.07898) [[code]](https://github.com/jusiro/flair)
@@ -331,7 +331,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**arXiv 2023**] IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2310.07355)
 - [**arXiv 2023**] Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images [[pdf]](https://arxiv.org/pdf/2310.07027)
 - [**arXiv 2023**] **RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance** [[pdf]](https://arxiv.org/pdf/2311.18681) [[code]](https://github.com/ChantalMP/RaDialog)
-- [**MICCAI 2023**] CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2310.13292) [[code]](https://github.com/kakaobrain/cxr-clip)
+- [**MICCAI 2023**] CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2310.13292) [[code]](https://github.com/Soombit-ai/cxr-clip)
 - [**MICCAI 2023**] Medical Phrase Grounding with Region-Phrase Context Contrastive Alignment [[pdf]](https://arxiv.org/abs/2303.07618) [[code]](https://github.com/eraserNut/MedRPG)
 - [**arXiv 2023**] BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys [[pdf]](https://arxiv.org/pdf/2310.10765) [[project]](https://microsoft.github.io/BiomedJourney/)
 - [**arXiv 2023**] **Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare** [[pdf]](https://arxiv.org/pdf/2310.17956) [[code]](https://github.com/williamliujl/Qilin-Med-VL)
@@ -362,10 +362,10 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**arXiv 2024**] **M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models** [[pdf]](https://arxiv.org/pdf/2404.00578) [[code]](https://github.com/BAAI-DCAI/M3D)
 - [**arXiv 2024**] **Dia-LLaMA: Towards Large Language Model-driven CT Report Generation** [[pdf]](https://arxiv.org/pdf/2403.16386)
 - [**arXiv 2024**] **WoLF: Wide-scope Large Language Model Framework for CXR Understanding** [[pdf]](https://arxiv.org/pdf/2403.15456)
-- [**CVPR 2024**] Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework [[pdf]](https://arxiv.org/pdf/2403.07636) [[code]](https://github.com/HieuPhan33/MAVL)
+- [**CVPR 2024**] Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework [[pdf]](https://arxiv.org/pdf/2403.07636) [[code]](https://github.com/hieuvmphan/CVPR2024_MAVL)
 - [**arXiv 2024**] **Large Model driven Radiology Report Generation with Clinical Quality Reinforcement Learning** [[pdf]](https://arxiv.org/pdf/2403.06728)
 - [**arXiv 2024**] **MedRG: Medical Report Grounding with Multi-modal Large Language Model** [[pdf]](https://arxiv.org/abs/2303.07618)
-- [**CVPR 2024**] Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models [[pdf]](https://arxiv.org/pdf/2404.04936) [[code]](https://github.com/HieuPhan33/MAVL)
+- [**CVPR 2024**] Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models [[pdf]](https://arxiv.org/pdf/2404.04936) [[code]](https://github.com/hieuvmphan/CVPR2024_MAVL)
 - [**CVPR 2024**] Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning [[pdf]](https://arxiv.org/pdf/2311.17597) [[code]](https://github.com/yeerwen/MedCoSS)
 - [**CVPR 2024**] PairAug: What Can Augmented Image-Text Pairs Do for Radiology? [[pdf]](https://arxiv.org/pdf/2404.04960) [[code]](https://github.com/YtongXie/PairAug)
 - [**CVPR 2024**] MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning [[pdf]](https://arxiv.org/pdf/2402.02045)
@@ -375,7 +375,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**arXiv 2024**] **MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning** [[pdf]](https://arxiv.org/pdf/2404.15127) [[code]](https://github.com/sunanhe/MedDr)
 - [**NeurIPS 2024**] **CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2406.06007) [[code]](https://github.com/richard-peng-xia/CARES)
 - [**MIDL 2024**] Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models [[pdf]](https://arxiv.org/pdf/2308.07706) [[code]](https://github.com/naamiinepal/medvlsm)
-- [**arXiv 2024**] Surgical-LVLM: Learning to Adapt Large Vision-Language Model for Grounded Visual Question Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2405.10948) [[code]](https://github.com/gkw0010/Surgical-LVLM)
+- [**arXiv 2024**] Surgical-LVLM: Learning to Adapt Large Vision-Language Model for Grounded Visual Question Answering in Robotic Surgery [[pdf]](https://arxiv.org/pdf/2405.10948)
 - [**MICCAI 2024**] HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition [[pdf]](https://arxiv.org/abs/2405.10075) [[code]](https://github.com/CAMMA-public/SurgVLP)
 - [**NeurIPS 2024**] Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation [[pdf]](https://arxiv.org/abs/2410.00263) [[code]](https://github.com/CAMMA-public/SurgVLP)
 - [**arXiv 2024**] **Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding** [[pdf]](https://arxiv.org/pdf/2405.19567) [[code]](https://github.com/AlaaLab/Dr-LLaVA)
@@ -421,7 +421,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**ICLR 2025**] **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine** [[pdf]](https://arxiv.org/pdf/2408.02900) [[code]](https://yunfeixie233.github.io/MedTrinity-25M/)
 - [**ICLR 2025**] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models** [[pdf]](https://arxiv.org/pdf/2410.13085) [[code]](https://github.com/richard-peng-xia/MMed-RAG)
 - [**arXiv 2025**] MedRAX: Medical Reasoning Agent for Chest X-ray [[pdf]](https://arxiv.org/pdf/2502.02673) [[code]](https://github.com/bowang-lab/MedRAX)
-- [**ICML 2025**] **HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation** [[pdf]](https://arxiv.org/abs/2502.09838) [[code]](https://github.com/DCDmllm/HealthGPT)
+- [**ICML 2025**] **HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation** [[pdf]](https://arxiv.org/abs/2502.09838) [[code]](https://github.com/ZJU4HealthCare/HealthGPT)
 - [**ICCV 2025**] Derm1M: A Million-scale Vision-Language Dataset Aligned with Clinical Ontology Knowledge for Dermatology [[pdf]](https://arxiv.org/pdf/2503.14911)
 - [**MICCAI 2025**] RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models [[pdf]](https://arxiv.org/abs/2503.15784)
 - [**ICML 2025**] **MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization** [[pdf]](https://arxiv.org/pdf/2412.06141) [[code]](https://github.com/aiming-lab/MMedPO)
@@ -431,10 +431,10 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**CVPR 2025**] **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge** [[pdf]](https://arxiv.org/pdf/2411.12915) [[code]](https://github.com/Project-MONAI/VLM-Radiology-Agent-Framework)
 - [**arXiv 2025**] **Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner** [[pdf]](https://arxiv.org/abs/2505.11404) [[code]](https://github.com/Wenchuan-Zhang/Patho-R1)
 - [**arXiv 2025**] Describe Anything in Medical Images [[pdf]](https://arxiv.org/abs/2505.05804)
-- [**arXiv 2025**] Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant [[pdf]](https://arxiv.org/abs/2505.03380) [[code]](https://github.com/xmed-lab/RCMed)
+- [**arXiv 2025**] Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant [[pdf]](https://arxiv.org/abs/2505.03380)
 - [**MIA 2025**] Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[pdf]](https://arxiv.org/abs/2504.18453)
 - [**arXiv 2025**] How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos? [[pdf]](https://arxiv.org/abs/2504.14391) [[code]](https://github.com/zou-group/OpenBiomedVid)
-- [**ACM MM 2025**] EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model [[pdf]](https://arxiv.org/abs/2504.13650) [[code]](https://github.com/DCDmllm/EyecareGPT)
+- [**ACM MM 2025**] EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model [[pdf]](https://arxiv.org/abs/2504.13650) [[code]](https://github.com/ZJU4HealthCare/EyecareGPT)
 - [**NeurIPS 2025**] **AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation** [[pdf]](https://arxiv.org/pdf/2505.02830) [[code]](https://github.com/Liqq1/AOR)
 - [**arXiv 2025**] **PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks** [[pdf]](https://arxiv.org/abs/2504.09258)
 - [**NeurIPS 202**] **QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training** [[pdf]](https://arxiv.org/pdf/2506.00711)
